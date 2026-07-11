@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="344" viewBox="0 0 880 344" role="img" aria-label="Terminal session introducing Jesse M. Torres">
+  <defs>
+    <clipPath id="type1"><rect x="200" y="68" height="22" width="0"><animate attributeName="width" to="64" begin="0.5s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="type2"><rect x="200" y="133" height="22" width="0"><animate attributeName="width" to="64" begin="2.3s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="type3"><rect x="200" y="198" height="22" width="0"><animate attributeName="width" to="222" begin="4.1s" dur="1.1s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="879" height="343" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <line x1="1" y1="48" x2="879" y2="48" stroke="#21262d"/>
+
+  <!-- traffic lights + title -->
+  <circle cx="26" cy="24" r="6.5" fill="#ff5f57"/>
+  <circle cx="48" cy="24" r="6.5" fill="#febc2e"/>
+  <circle cx="70" cy="24" r="6.5" fill="#28c840"/>
+  <text x="440" y="29" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8b949e">jesse@jesseweb — zsh</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
+
+    <!-- $ whoami -->
+    <text x="28" y="84"><tspan fill="#7ee787">jesse@jesseweb</tspan><tspan fill="#79c0ff"> ~</tspan><tspan fill="#8b949e"> %</tspan></text>
+    <g clip-path="url(#type1)"><text x="200" y="84" fill="#e6edf3">whoami</text></g>
+    <text x="28" y="110" opacity="0"><tspan fill="#e6edf3" font-weight="600">Jesse M. Torres</tspan><tspan fill="#8b949e"> — Senior Core Platform Engineer @ Bridgewater Associates</tspan><animate attributeName="opacity" to="1" begin="1.3s" dur="0.01s" fill="freeze"/></text>
+
+    <!-- $ uptime -->
+    <g opacity="0">
+      <text x="28" y="149"><tspan fill="#7ee787">jesse@jesseweb</tspan><tspan fill="#79c0ff"> ~</tspan><tspan fill="#8b949e"> %</tspan></text>
+      <animate attributeName="opacity" to="1" begin="1.9s" dur="0.01s" fill="freeze"/>
+    </g>
+    <g clip-path="url(#type2)"><text x="200" y="149" fill="#e6edf3">uptime</text></g>
+    <text x="28" y="175" opacity="0"><tspan fill="#8b949e">up </tspan><tspan fill="#e6edf3">25+ years</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#e6edf3">5 books</tspan><tspan fill="#8b949e"> published, load average: enterprise-scale</tspan><animate attributeName="opacity" to="1" begin="3.1s" dur="0.01s" fill="freeze"/></text>
+
+    <!-- $ ./enable enterprise-ai -->
+    <g opacity="0">
+      <text x="28" y="214"><tspan fill="#7ee787">jesse@jesseweb</tspan><tspan fill="#79c0ff"> ~</tspan><tspan fill="#8b949e"> %</tspan></text>
+      <animate attributeName="opacity" to="1" begin="3.7s" dur="0.01s" fill="freeze"/>
+    </g>
+    <g clip-path="url(#type3)"><text x="200" y="214" fill="#e6edf3">./enable --enterprise-ai</text></g>
+    <text x="28" y="240" opacity="0"><tspan fill="#7ee787">✓</tspan><tspan fill="#c9d1d9"> Claude · Claude Code · MCP servers · agent architectures</tspan><animate attributeName="opacity" to="1" begin="5.4s" dur="0.01s" fill="freeze"/></text>
+    <text x="28" y="266" opacity="0"><tspan fill="#7ee787">✓</tspan><tspan fill="#c9d1d9"> AI governance · security hardening · production operationalization</tspan><animate attributeName="opacity" to="1" begin="5.7s" dur="0.01s" fill="freeze"/></text>
+
+    <!-- final prompt + blinking cursor -->
+    <g opacity="0">
+      <text x="28" y="305"><tspan fill="#7ee787">jesse@jesseweb</tspan><tspan fill="#79c0ff"> ~</tspan><tspan fill="#8b949e"> %</tspan></text>
+      <animate attributeName="opacity" to="1" begin="6.3s" dur="0.01s" fill="freeze"/>
+    </g>
+    <rect x="200" y="291" width="9" height="18" fill="#e6edf3" opacity="0">
+      <animate attributeName="opacity" values="0;0" begin="0s" dur="6.3s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" begin="6.3s" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
