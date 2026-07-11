@@ -32,14 +32,14 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 ## `$ ls ~/projects`
 
-|  |  |
-| --- | --- |
-| 🏠 [**home-assistant-configuration**](https://github.com/JesseWebDotCom/home-assistant-configuration) ⭐ 39 | My complete personal home-automation solution built on Home Assistant |
-| 🚗 [**homepage-for-tesla**](https://github.com/JesseWebDotCom/homepage-for-tesla) ⭐ 50 | Self-hosted personal homepage for your Tesla's browser, with auto light-dimming |
-| 🤖 [**loki-doki**](https://github.com/JesseWebDotCom/loki-doki) ⭐ 3 | Your family. Your data. Your rules. A private, self-hosted AI platform for the whole home |
-| 🌳 [**webtrees-theme-modern**](https://github.com/JesseWebDotCom/webtrees-theme-modern) ⭐ 30 | A modern, mobile-optimized theme for the webtrees genealogy platform |
-| 🍎 [**macos-setup-scripts**](https://github.com/JesseWebDotCom/macos-setup-scripts) ⭐ 7 | Zero-touch configuration, optimization, and app install for a fresh macOS build |
-| 📦 [**vscode-dev-container**](https://github.com/JesseWebDotCom/vscode-dev-container) ⭐ 6 | Fully pre-configured, isolated VS Code dev environment for any language |
+| project | description |
+| :-- | :-- |
+| 🚗 [**homepage-for-tesla**](https://github.com/JesseWebDotCom/homepage-for-tesla)<br/>⭐&nbsp;50 | Self-hosted personal homepage for your Tesla's browser, with auto light-dimming |
+| 🏠 [**home-assistant-configuration**](https://github.com/JesseWebDotCom/home-assistant-configuration)<br/>⭐&nbsp;39 | My complete personal home-automation solution built on Home Assistant |
+| 🌳 [**webtrees-theme-modern**](https://github.com/JesseWebDotCom/webtrees-theme-modern)<br/>⭐&nbsp;30 | A modern, mobile-optimized theme for the webtrees genealogy platform |
+| 🍎 [**macos-setup-scripts**](https://github.com/JesseWebDotCom/macos-setup-scripts)<br/>⭐&nbsp;7 | Zero-touch configuration, optimization, and app install for a fresh macOS build |
+| 📦 [**vscode-dev-container**](https://github.com/JesseWebDotCom/vscode-dev-container)<br/>⭐&nbsp;6 | Fully pre-configured, isolated VS Code dev environment for any language |
+| 🤖 [**loki-doki**](https://github.com/JesseWebDotCom/loki-doki)<br/>⭐&nbsp;3 | Your family. Your data. Your rules. A private, self-hosted AI platform for the whole home |
 
 <br/>
 
@@ -94,13 +94,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JesseWebDotCom&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=7ee787&icon_color=79c0ff&text_color=8b949e">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesseWebDotCom&show_icons=true&hide_border=true&bg_color=00000000&title_color=1a7f37&icon_color=0969da&text_color=57606a" alt="GitHub stats" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="Neofetch-style GitHub stats card: repos, stars, followers, books, and top languages" width="880"/>
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseWebDotCom&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=7ee787&text_color=8b949e">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseWebDotCom&layout=compact&hide_border=true&bg_color=00000000&title_color=1a7f37&text_color=57606a" alt="Top languages" height="165"/>
-</picture>
+
+<sub>*no third-party stat services — this card is generated daily by a GitHub Action in this repo*</sub>
 
 </div>
 
