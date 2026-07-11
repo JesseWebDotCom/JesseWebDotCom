@@ -28,7 +28,7 @@
       <animate attributeName="opacity" to="1" begin="1.9s" dur="0.01s" fill="freeze"/>
     </g>
     <g clip-path="url(#type2)"><text x="200" y="149" fill="#e6edf3">uptime</text></g>
-    <text x="28" y="175" opacity="0"><tspan fill="#8b949e">up </tspan><tspan fill="#e6edf3">25+ years</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#e6edf3">5 books</tspan><tspan fill="#8b949e"> published, load average: enterprise-scale</tspan><animate attributeName="opacity" to="1" begin="3.1s" dur="0.01s" fill="freeze"/></text>
+    <text x="28" y="175" opacity="0"><tspan fill="#8b949e">up </tspan><tspan fill="#e6edf3">30+ years</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#e6edf3">5 books</tspan><tspan fill="#8b949e"> published, load average: enterprise-scale</tspan><animate attributeName="opacity" to="1" begin="3.1s" dur="0.01s" fill="freeze"/></text>
 
     <!-- $ ./enable enterprise-ai -->
     <g opacity="0">

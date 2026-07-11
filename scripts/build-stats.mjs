@@ -22,7 +22,6 @@ const LANG_COLORS = {
 };
 const colorOf = (lang) => LANG_COLORS[lang] ?? '#8b949e';
 
-const user = await gh(`/users/${USER}`);
 const repos = (await gh(`/users/${USER}/repos?per_page=100&type=owner`)).filter((r) => !r.fork);
 const stars = repos.reduce((n, r) => n + r.stargazers_count, 0);
 
@@ -47,9 +46,8 @@ function card(theme) {
     ['host', `github.com/${USER}`],
     ['repos', `${repos.length} public (originals, no forks)`],
     ['stars earned', `${stars}`],
-    ['followers', `${user.followers}`],
     ['books shipped', '5 (Windows Admin Scripting series + C# 2005)'],
-    ['uptime', '25+ years in enterprise tech'],
+    ['uptime', '30+ years in enterprise tech'],
   ];
 
   // ~9px per char at 15px mono; key column padded to align values

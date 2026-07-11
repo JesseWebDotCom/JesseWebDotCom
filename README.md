@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="assets/terminal.svg" alt="Terminal: Jesse M. Torres — Senior Core Platform Engineer @ Bridgewater Associates. 25+ years, 5 books published. Enterprise AI: Claude, Claude Code, MCP, agent architectures, governance, security hardening." width="880"/>
+<img src="assets/terminal.svg" alt="Terminal: Jesse M. Torres — Senior Core Platform Engineer @ Bridgewater Associates. 30+ years, 5 books published. Enterprise AI: Claude, Claude Code, MCP, agent architectures, governance, security hardening." width="880"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jessemtorres-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/jessemtorres/)
-[![GitHub followers](https://img.shields.io/github/followers/JesseWebDotCom?style=for-the-badge&logo=github&color=24292e)](https://github.com/JesseWebDotCom?tab=followers)
 
 </div>
 
-I help organizations improve end-user productivity by **designing, securing, and operationalizing enterprise technology** — end-user computing, infrastructure engineering, automation, DevOps, endpoint management, and modern **AI enablement**. 25+ years across military, government, financial, and corporate environments, including work requiring Top Secret clearance.
+I help organizations improve end-user productivity by **designing, securing, and operationalizing enterprise technology** — end-user computing, infrastructure engineering, automation, DevOps, cyber security, endpoint management, and modern **AI enablement**. 30+ years across military, government, financial, and corporate environments, including work requiring Top Secret clearance.
 
 These days my focus is **enterprise AI**: evaluating, integrating, governing, and hardening platforms like **Claude, Claude Code, ChatGPT Enterprise, MCP integrations, and agent architectures** for production use in security-conscious organizations.
 
@@ -34,12 +33,12 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 | project | description |
 | :-- | :-- |
-| 🚗 [**homepage-for-tesla**](https://github.com/JesseWebDotCom/homepage-for-tesla)<br/>⭐&nbsp;50 | Self-hosted personal homepage for your Tesla's browser, with auto light-dimming |
-| 🏠 [**home-assistant-configuration**](https://github.com/JesseWebDotCom/home-assistant-configuration)<br/>⭐&nbsp;39 | My complete personal home-automation solution built on Home Assistant |
-| 🌳 [**webtrees-theme-modern**](https://github.com/JesseWebDotCom/webtrees-theme-modern)<br/>⭐&nbsp;30 | A modern, mobile-optimized theme for the webtrees genealogy platform |
-| 🍎 [**macos-setup-scripts**](https://github.com/JesseWebDotCom/macos-setup-scripts)<br/>⭐&nbsp;7 | Zero-touch configuration, optimization, and app install for a fresh macOS build |
-| 📦 [**vscode-dev-container**](https://github.com/JesseWebDotCom/vscode-dev-container)<br/>⭐&nbsp;6 | Fully pre-configured, isolated VS Code dev environment for any language |
-| 🤖 [**loki-doki**](https://github.com/JesseWebDotCom/loki-doki)<br/>⭐&nbsp;3 | Your family. Your data. Your rules. A private, self-hosted AI platform for the whole home |
+| 🚗 [**homepage-for-tesla**](https://github.com/JesseWebDotCom/homepage-for-tesla) | Self-hosted personal homepage for your Tesla's browser, with auto light-dimming |
+| 🏠 [**home-assistant-configuration**](https://github.com/JesseWebDotCom/home-assistant-configuration) | My complete personal home-automation solution built on Home Assistant |
+| 🌳 [**webtrees-theme-modern**](https://github.com/JesseWebDotCom/webtrees-theme-modern) | A modern, mobile-optimized theme for the webtrees genealogy platform |
+| 🍎 [**macos-setup-scripts**](https://github.com/JesseWebDotCom/macos-setup-scripts) | Zero-touch configuration, optimization, and app install for a fresh macOS build |
+| 📦 [**vscode-dev-container**](https://github.com/JesseWebDotCom/vscode-dev-container) | Fully pre-configured, isolated VS Code dev environment for any language |
+| 🤖 [**loki-doki**](https://github.com/JesseWebDotCom/loki-doki) | Your family. Your data. Your rules. A private, self-hosted AI platform for the whole home |
 
 <br/>
 
@@ -89,13 +88,27 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <br/>
 
+## `$ tail -n 5 activity.log`
+
+<!--ACTIVITY:START-->
+```text
+2026-07-11  commit  loki-doki  readme: concise rewrite — one-line pitch, early quick start, no repetition
+2026-07-11  commit  loki-doki  videos: volume slider for Vimeo + native generic players; non-private default
+2026-07-11  commit  loki-doki  videos: real volume slider in the custom player
+2026-07-11  commit  loki-doki  videos: keyframe-aligned remux seeks fix A/V sync
+2026-07-10  commit  loki-doki  videos: private stream reaches 4K + faster remux startup
+```
+<!--ACTIVITY:END-->
+
+<br/>
+
 ## `$ gh stats`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="Neofetch-style GitHub stats card: repos, stars, followers, books, and top languages" width="880"/>
+  <img src="assets/stats-light.svg" alt="Neofetch-style GitHub stats card: repos, stars earned, books, uptime, and top languages" width="880"/>
 </picture>
 
 <sub>*no third-party stat services — this card is generated daily by a GitHub Action in this repo*</sub>
