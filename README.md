@@ -60,14 +60,14 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![ChatGPT Enterprise](https://img.shields.io/badge/ChatGPT_Enterprise-412991?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT Enterprise](https://img.shields.io/badge/ChatGPT_Enterprise-412991?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP_Integrations-1a7f64?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/Agent_Architectures-5A45FF?style=flat-square)
 
 **Platforms & EUC**
 
 ![Azure](https://img.shields.io/badge/Azure_Virtual_Desktop-0078D4?style=flat-square)
-![Jamf](https://img.shields.io/badge/Jamf-9BD7EA?style=flat-square&logo=jamf&logoColor=black)
+![Jamf](https://img.shields.io/badge/Jamf-9BD7EA?style=flat-square)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
