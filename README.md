@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-11  commit  loki-doki  readme: concise rewrite — one-line pitch, early quick start, no repetition
-2026-07-11  commit  loki-doki  videos: volume slider for Vimeo + native generic players; non-private default
-2026-07-11  commit  loki-doki  videos: real volume slider in the custom player
-2026-07-11  commit  loki-doki  videos: keyframe-aligned remux seeks fix A/V sync
-2026-07-10  commit  loki-doki  videos: private stream reaches 4K + faster remux startup
+2026-07-12  commit  jesseweb-com  WJMT-TV: interactive vintage CRT resume site for jesseweb.com
+2026-07-11  commit  loki-doki     license AGPL-3.0 + rename desktop app to Doki Dock
+2026-07-11  commit  loki-doki     readme: concise rewrite — one-line pitch, early quick start, no repetition
+2026-07-11  commit  loki-doki     videos: volume slider for Vimeo + native generic players; non-private defa
+2026-07-11  commit  loki-doki     videos: real volume slider in the custom player
 ```
 <!--ACTIVITY:END-->
 
