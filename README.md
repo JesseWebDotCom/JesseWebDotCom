@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-12  commit  jesseweb-com  WJMT-TV: interactive vintage CRT resume site for jesseweb.com
-2026-07-11  commit  loki-doki     license AGPL-3.0 + rename desktop app to Doki Dock
-2026-07-11  commit  loki-doki     readme: concise rewrite — one-line pitch, early quick start, no repetition
-2026-07-11  commit  loki-doki     videos: volume slider for Vimeo + native generic players; non-private defa
-2026-07-11  commit  loki-doki     videos: real volume slider in the custom player
+2026-07-12  commit  jesseweb-com  Title screen lists the fire keys
+2026-07-12  commit  jesseweb-com  Mobile control polish, landscape front page, retitle, quiet reader text
+2026-07-12  commit  jesseweb-com  Author mini-game, PWC tower, fullscreen landscape, reader mode
+2026-07-12  commit  jesseweb-com  Mobile gamepad overlay + complete pop-culture ad names
+2026-07-12  commit  jesseweb-com  Two machines: front page, TV at /tv/, and Torres Quest at /game/
 ```
 <!--ACTIVITY:END-->
 
