@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-12  commit  jesseweb-com  Title screen lists the fire keys
-2026-07-12  commit  jesseweb-com  Mobile control polish, landscape front page, retitle, quiet reader text
-2026-07-12  commit  jesseweb-com  Author mini-game, PWC tower, fullscreen landscape, reader mode
-2026-07-12  commit  jesseweb-com  Mobile gamepad overlay + complete pop-culture ad names
-2026-07-12  commit  jesseweb-com  Two machines: front page, TV at /tv/, and Torres Quest at /game/
+2026-07-14  commit  loki-doki  shows, movies: rail pages, showtimes fold-in, ratings, alerts & integrations
+2026-07-14  commit  loki-doki  remote: SSH/VNC/RDP console app with host registry, folders & audit log
+2026-07-14  commit  loki-doki  books: design-contract cleanup (semantic warning color, comment style)
+2026-07-14  commit  loki-doki  news: immersive reader mode, AI summaries, related videos & content quality
+2026-07-14  commit  loki-doki  videos: LLM related-topic shelves + pinned scrollable watch rail
 ```
 <!--ACTIVITY:END-->
 
