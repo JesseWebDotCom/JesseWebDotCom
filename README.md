@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-14  commit  loki-doki  shows, movies: rail pages, showtimes fold-in, ratings, alerts & integrations
-2026-07-14  commit  loki-doki  remote: SSH/VNC/RDP console app with host registry, folders & audit log
-2026-07-14  commit  loki-doki  books: design-contract cleanup (semantic warning color, comment style)
-2026-07-14  commit  loki-doki  news: immersive reader mode, AI summaries, related videos & content quality
-2026-07-14  commit  loki-doki  videos: LLM related-topic shelves + pinned scrollable watch rail
+2026-07-14  commit  loki-doki  admin: auto-check on Server panel open + disable Update when up to date
+2026-07-14  commit  loki-doki  interests: hard-news gate, trending cap, and date-topic filter for video sugg
+2026-07-14  commit  loki-doki  interests: relevance + age gates and source proportionality for video suggest
+2026-07-14  commit  loki-doki  interests: per-user Suggested for you rails across Videos, Shows, Movies, Pod
+2026-07-14  commit  loki-doki  security hardening: backend feature-gate enforcement, remote audit coverage &
 ```
 <!--ACTIVITY:END-->
 
