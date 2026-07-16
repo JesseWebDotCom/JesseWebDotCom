@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-14  commit  loki-doki  admin: auto-check on Server panel open + disable Update when up to date
-2026-07-14  commit  loki-doki  interests: hard-news gate, trending cap, and date-topic filter for video sugg
-2026-07-14  commit  loki-doki  interests: relevance + age gates and source proportionality for video suggest
-2026-07-14  commit  loki-doki  interests: per-user Suggested for you rails across Videos, Shows, Movies, Pod
-2026-07-14  commit  loki-doki  security hardening: backend feature-gate enforcement, remote audit coverage &
+2026-07-16  commit  loki-doki  remote: stop idle VNC/RDP/terminal sessions from dying + auto-reconnect
+2026-07-16  commit  loki-doki  llm: dual-engine resource management - hygiene, residency policy, guards, mon
+2026-07-15  commit  loki-doki  coding: give Ollama a 32k default context so Claude Code stops derailing
+2026-07-15  commit  loki-doki  coding: provision Claude Code's native binary via trustedDependencies
+2026-07-15  commit  loki-doki  docs+ops: launcher/host-guard reference, brownout+eGPU recovery script
 ```
 <!--ACTIVITY:END-->
 
