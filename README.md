@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-16  commit  loki-doki  remote: stop idle VNC/RDP/terminal sessions from dying + auto-reconnect
-2026-07-16  commit  loki-doki  llm: dual-engine resource management - hygiene, residency policy, guards, mon
-2026-07-15  commit  loki-doki  coding: give Ollama a 32k default context so Claude Code stops derailing
-2026-07-15  commit  loki-doki  coding: provision Claude Code's native binary via trustedDependencies
-2026-07-15  commit  loki-doki  docs+ops: launcher/host-guard reference, brownout+eGPU recovery script
+2026-07-16  commit  loki-doki  fix(desktop): treat the LAN server origin as secure; real Sequoia first-open 
+2026-07-16  commit  loki-doki  feat(desktop): serve Mac zip installers (Windows-built cross-compile)
+2026-07-16  commit  loki-doki  fix(desktop): show only the detected OS's installer and instructions
+2026-07-16  commit  loki-doki  fix(desktop): serve installer downloads with Content-Length
+2026-07-16  commit  loki-doki  Merge remote-tracking branch 'origin/main'
 ```
 <!--ACTIVITY:END-->
 
