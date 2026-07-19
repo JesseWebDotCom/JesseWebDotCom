@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-18  commit  loki-doki  feat(voice): admin voice-engine device selection, restart, and speed test
-2026-07-18  commit  loki-doki  Merge remote-tracking branch 'origin/main'
-2026-07-18  commit  loki-doki  search: right-hand AI Overview rail + modernized result rows
-2026-07-18  commit  loki-doki  feat(voice): smart multi-platform device selection for the voice sidecar
-2026-07-18  commit  loki-doki  feat(voice): runtime-tunable STT endpoint silence timeout (CPU-first Phase 2 
+2026-07-19  commit  loki-doki  music: extend favorites to artists and albums
+2026-07-19  commit  loki-doki  radio: pre-generate DJ intros with variant rotation
+2026-07-19  commit  loki-doki  stations: instant tune-in via head cache + accuracy/variety fixes
+2026-07-19  commit  loki-doki  radio: skip works during the DJ (and the whole intro/transition sequence)
+2026-07-18  commit  loki-doki  videos: warm YouTube's hub browse caches + idle transcripts for continue watc
 ```
 <!--ACTIVITY:END-->
 
