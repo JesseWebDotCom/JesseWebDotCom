@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-19  commit  loki-doki  music: extend favorites to artists and albums
-2026-07-19  commit  loki-doki  radio: pre-generate DJ intros with variant rotation
-2026-07-19  commit  loki-doki  stations: instant tune-in via head cache + accuracy/variety fixes
-2026-07-19  commit  loki-doki  radio: skip works during the DJ (and the whole intro/transition sequence)
-2026-07-18  commit  loki-doki  videos: warm YouTube's hub browse caches + idle transcripts for continue watc
+2026-07-19  commit  loki-doki  music: stop caching MusicBrainz misses that pinned 'No catalog match' for day
+2026-07-19  commit  loki-doki  stations: make instant tune-in actually fire (warm all, survive history + res
+2026-07-19  commit  loki-doki  music: open artist/song details via the identity-bearing resolvers
+2026-07-19  commit  loki-doki  music: resolve artist MBIDs via MusicBrainz, not the Deezer-first search
+2026-07-19  commit  loki-doki  db: add category/loading_messages/source_ref to the music_stations DDL
 ```
 <!--ACTIVITY:END-->
 
