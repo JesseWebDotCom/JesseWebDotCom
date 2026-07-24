@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-20  commit  loki-doki  coding: recognize Bun's platform-binary install layout; stop endless reconnec
-2026-07-20  commit  loki-doki  coding: auto-reconnect the terminal instead of dying on a dropped socket
-2026-07-19  commit  loki-doki  radio: skips cut past the DJ, and the warm sweep yields to live tune-ins
-2026-07-19  commit  loki-doki  music: stop caching MusicBrainz misses that pinned 'No catalog match' for day
-2026-07-19  commit  loki-doki  stations: make instant tune-in actually fire (warm all, survive history + res
+2026-07-24  commit  loki-doki  ledger: Household Ledger app over the mail extractor
+2026-07-23  commit  loki-doki  icloud: CardDAV contacts sync + birthdays (Phase 2 slice)
+2026-07-23  commit  loki-doki  frame: Photo Frame app over public iCloud Shared Albums
+2026-07-23  commit  loki-doki  calendar: household Calendar app
+2026-07-23  commit  loki-doki  updates: always rebuild the bundle; logo check opens confirm directly
 ```
 <!--ACTIVITY:END-->
 
