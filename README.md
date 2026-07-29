@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-24  commit  loki-doki  ledger: Household Ledger app over the mail extractor
-2026-07-23  commit  loki-doki  icloud: CardDAV contacts sync + birthdays (Phase 2 slice)
-2026-07-23  commit  loki-doki  frame: Photo Frame app over public iCloud Shared Albums
-2026-07-23  commit  loki-doki  calendar: household Calendar app
-2026-07-23  commit  loki-doki  updates: always rebuild the bundle; logo check opens confirm directly
+2026-07-28  commit  loki-doki  avatar: lazy-load DiceBear so a load failure can't crash startup
+2026-07-28  commit  loki-doki  feat(auth): server-rasterized avatar PNG endpoint for native clients
+2026-07-28  commit  loki-doki  merge: NVENC-certain 4K HLS tier with streaming-grade quality args
+2026-07-28  commit  loki-doki  youtube: make the 4K HLS tier NVENC-certain and stop starving its quality
+2026-07-28  commit  loki-doki  gitignore: launcher stamp files
 ```
 <!--ACTIVITY:END-->
 
