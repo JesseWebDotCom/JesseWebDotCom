@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-28  commit  loki-doki  avatar: lazy-load DiceBear so a load failure can't crash startup
-2026-07-28  commit  loki-doki  feat(auth): server-rasterized avatar PNG endpoint for native clients
-2026-07-28  commit  loki-doki  merge: NVENC-certain 4K HLS tier with streaming-grade quality args
-2026-07-28  commit  loki-doki  youtube: make the 4K HLS tier NVENC-certain and stop starving its quality
-2026-07-28  commit  loki-doki  gitignore: launcher stamp files
+2026-07-30  commit  loki-doki  youtube: Ask This Video, transcript-grounded Q&A with jump-to-moment
+2026-07-30  commit  loki-doki  youtube: surface AI chapters and Previously-on recaps in the watch page
+2026-07-30  commit  loki-doki  youtube: Get To The Point, AI filler segments served like SponsorBlock
+2026-07-30  commit  loki-doki  youtube: AI chapters for chapterless videos and Previously-on resume recaps
+2026-07-29  commit  loki-doki  interests: adopt YouTube's serve-time and signal techniques
 ```
 <!--ACTIVITY:END-->
 
