@@ -11,7 +11,7 @@
     <text x="248" y="144"><tspan fill="#7ee787">stars earned </tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#e6edf3">156</tspan></text>
     <text x="248" y="168"><tspan fill="#7ee787">books shipped</tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#e6edf3">5 (Windows Admin Scripting series + C# 2005)</tspan></text>
     <text x="248" y="192"><tspan fill="#7ee787">uptime       </tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#e6edf3">30+ years in enterprise tech</tspan></text>
-    <rect x="248.0" y="218" width="556.4" height="10" fill="#3178c6"/><rect x="804.4" y="218" width="13.1" height="10" fill="#e34c26"/><rect x="817.5" y="218" width="6.0" height="10" fill="#c6538c"/><rect x="823.5" y="218" width="5.8" height="10" fill="#563d7c"/><rect x="829.3" y="218" width="4.7" height="10" fill="#3572A5"/><rect x="833.9" y="218" width="4.6" height="10" fill="#f34b7d"/>
+    <rect x="248.0" y="218" width="556.5" height="10" fill="#3178c6"/><rect x="804.5" y="218" width="13.1" height="10" fill="#e34c26"/><rect x="817.6" y="218" width="6.0" height="10" fill="#c6538c"/><rect x="823.6" y="218" width="5.7" height="10" fill="#563d7c"/><rect x="829.3" y="218" width="4.6" height="10" fill="#3572A5"/><rect x="834.0" y="218" width="4.6" height="10" fill="#f34b7d"/>
     <circle cx="253" cy="244" r="5" fill="#3178c6"/><text x="266" y="248"><tspan fill="#e6edf3">TypeScript</tspan><tspan fill="#8b949e"> 92.1%</tspan></text>
     <circle cx="463" cy="244" r="5" fill="#e34c26"/><text x="476" y="248"><tspan fill="#e6edf3">HTML</tspan><tspan fill="#8b949e"> 2.2%</tspan></text>
     <circle cx="673" cy="244" r="5" fill="#c6538c"/><text x="686" y="248"><tspan fill="#e6edf3">SCSS</tspan><tspan fill="#8b949e"> 1.0%</tspan></text>

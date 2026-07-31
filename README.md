@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-30  commit  loki-doki  youtube: Ask This Video, transcript-grounded Q&A with jump-to-moment
-2026-07-30  commit  loki-doki  youtube: surface AI chapters and Previously-on recaps in the watch page
-2026-07-30  commit  loki-doki  youtube: Get To The Point, AI filler segments served like SponsorBlock
-2026-07-30  commit  loki-doki  youtube: AI chapters for chapterless videos and Previously-on resume recaps
-2026-07-29  commit  loki-doki  interests: adopt YouTube's serve-time and signal techniques
+2026-07-31  commit  loki-doki  youtube: /recommended accepts a limit for the TV's endless Suggested page
+2026-07-30  commit  loki-doki  youtube: history and collections carry views and publishedAt
+2026-07-30  commit  loki-doki  youtube: per-channel follow levels trim the subscriptions feed
+2026-07-30  commit  loki-doki  interests: explain every recommendation
+2026-07-30  commit  loki-doki  youtube: normalize Worth It grades and log rejections
 ```
 <!--ACTIVITY:END-->
 
