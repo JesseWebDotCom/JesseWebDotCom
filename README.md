@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-07-31  commit  loki-doki  youtube: /recommended accepts a limit for the TV's endless Suggested page
-2026-07-30  commit  loki-doki  youtube: history and collections carry views and publishedAt
-2026-07-30  commit  loki-doki  youtube: per-channel follow levels trim the subscriptions feed
-2026-07-30  commit  loki-doki  interests: explain every recommendation
-2026-07-30  commit  loki-doki  youtube: normalize Worth It grades and log rejections
+2026-08-01  commit  loki-doki  popup facts: main model + cache namespace bump
+2026-08-01  commit  loki-doki  transcripts: stage logging on the failure path
+2026-08-01  commit  loki-doki  transcripts: multi-client caption fallback + srt acceptance
+2026-08-01  commit  loki-doki  transcripts: survive caption-name drift + InnerTube fallback
+2026-08-01  commit  loki-doki  interests: subscriptions-aware suggestions + anti-fixation diversity caps
 ```
 <!--ACTIVITY:END-->
 
