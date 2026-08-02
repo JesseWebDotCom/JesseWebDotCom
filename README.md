@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-01  commit  loki-doki  popup facts: main model + cache namespace bump
-2026-08-01  commit  loki-doki  transcripts: stage logging on the failure path
-2026-08-01  commit  loki-doki  transcripts: multi-client caption fallback + srt acceptance
-2026-08-01  commit  loki-doki  transcripts: survive caption-name drift + InnerTube fallback
-2026-08-01  commit  loki-doki  interests: subscriptions-aware suggestions + anti-fixation diversity caps
+2026-08-02  commit  loki-doki  youtube: transcode-free video quality pass
+2026-08-02  commit  loki-doki  interests: shelf floor 4 so subscription topic groups survive
+2026-08-02  commit  loki-doki  youtube: full account-surface ingestion + shelf selection rebalance
+2026-08-02  commit  loki-doki  interests: pool v5 - rebuild under amplified Google picks
+2026-08-02  commit  loki-doki  interests: topic shelves endpoint + Google-picks amplification
 ```
 <!--ACTIVITY:END-->
 
