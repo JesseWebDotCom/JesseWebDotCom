@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-02  commit  loki-doki  imdb: datasets ingestion + computable popup facts (v9)
-2026-08-02  commit  loki-doki  interests: autoplay-chain watches never seed (pool v7)
-2026-08-02  commit  loki-doki  interests: title-similarity cap on served pages
-2026-08-02  commit  loki-doki  interests: personalized watch-next drives the related fan-out (pool v6)
-2026-08-02  commit  loki-doki  popup facts: entity qualification + definition rejection (v8)
+2026-08-06  commit  jesseweb-com  WEBMCP link beside GITHUB/LINKEDIN + ch33 and reader-view mentions
+2026-08-06  commit  jesseweb-com  WebMCP: a machine side door for AI agents
+2026-08-02  commit  loki-doki     imdb: datasets ingestion + computable popup facts (v9)
+2026-08-02  commit  loki-doki     interests: autoplay-chain watches never seed (pool v7)
+2026-08-02  commit  loki-doki     interests: title-similarity cap on served pages
 ```
 <!--ACTIVITY:END-->
 
