@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-06  commit  jesseweb-com  WEBMCP link beside GITHUB/LINKEDIN + ch33 and reader-view mentions
-2026-08-06  commit  jesseweb-com  WebMCP: a machine side door for AI agents
-2026-08-02  commit  loki-doki     imdb: datasets ingestion + computable popup facts (v9)
-2026-08-02  commit  loki-doki     interests: autoplay-chain watches never seed (pool v7)
-2026-08-02  commit  loki-doki     interests: title-similarity cap on served pages
+2026-08-07  commit  loki-doki  videos: classic is the default card style
+2026-08-07  commit  loki-doki  videos: the synced card style, on the web
+2026-08-07  commit  loki-doki  client-prefs: a keyed per-user JSON store for app UI choices
+2026-08-07  commit  loki-doki  frigate: proxy one event's snapshot and clip
+2026-08-07  commit  loki-doki  chat: accept photos for a vision turn
 ```
 <!--ACTIVITY:END-->
 
