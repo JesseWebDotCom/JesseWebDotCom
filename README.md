@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
+2026-08-08  commit  loki-doki  youtube: write into the account's own playlists
+2026-08-08  commit  loki-doki  home assistant: direct-connection credentials for trusted clients
+2026-08-08  commit  loki-doki  youtube: the linked account's own playlists, listed and readable
 2026-08-07  commit  loki-doki  videos: classic is the default card style
 2026-08-07  commit  loki-doki  videos: the synced card style, on the web
-2026-08-07  commit  loki-doki  client-prefs: a keyed per-user JSON store for app UI choices
-2026-08-07  commit  loki-doki  frigate: proxy one event's snapshot and clip
-2026-08-07  commit  loki-doki  chat: accept photos for a vision turn
 ```
 <!--ACTIVITY:END-->
 
