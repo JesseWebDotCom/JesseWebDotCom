@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-08  commit  loki-doki  youtube: write into the account's own playlists
-2026-08-08  commit  loki-doki  home assistant: direct-connection credentials for trusted clients
-2026-08-08  commit  loki-doki  youtube: the linked account's own playlists, listed and readable
-2026-08-07  commit  loki-doki  videos: classic is the default card style
-2026-08-07  commit  loki-doki  videos: the synced card style, on the web
+2026-08-10  commit  loki-doki  model sets: pick the Original or Latest lineup, and switch without leftovers
+2026-08-10  commit  loki-doki  card art: warm every lazy image app-wide, not just the wired surfaces
+2026-08-10  commit  loki-doki  card art: warm it ahead of the scroll instead of at the moment you reach it
+2026-08-10  commit  loki-doki  honest titles: stamp them server side, and let a "no" expire
+2026-08-10  commit  loki-doki  precompute: fresh uploads arrive with an honest title, not just a summary
 ```
 <!--ACTIVITY:END-->
 
