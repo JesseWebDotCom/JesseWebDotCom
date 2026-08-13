@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-10  commit  loki-doki  model sets: pick the Original or Latest lineup, and switch without leftovers
-2026-08-10  commit  loki-doki  card art: warm every lazy image app-wide, not just the wired surfaces
-2026-08-10  commit  loki-doki  card art: warm it ahead of the scroll instead of at the moment you reach it
-2026-08-10  commit  loki-doki  honest titles: stamp them server side, and let a "no" expire
-2026-08-10  commit  loki-doki  precompute: fresh uploads arrive with an honest title, not just a summary
+2026-08-12  commit  loki-doki  docs: user guide + README catch up with the chat product layer and travel awa
+2026-08-12  commit  loki-doki  local news follows the device: current-place Local tab while traveling
+2026-08-12  commit  loki-doki  weather follows the device: current location on every weather surface
+2026-08-12  commit  loki-doki  engine liveness guard: respawn a dead ollama serve from the hygiene watchdog
+2026-08-12  commit  loki-doki  docs: chat product layer section + prompt-zone additions
 ```
 <!--ACTIVITY:END-->
 
