@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-12  commit  loki-doki  docs: user guide + README catch up with the chat product layer and travel awa
-2026-08-12  commit  loki-doki  local news follows the device: current-place Local tab while traveling
-2026-08-12  commit  loki-doki  weather follows the device: current location on every weather surface
-2026-08-12  commit  loki-doki  engine liveness guard: respawn a dead ollama serve from the hygiene watchdog
-2026-08-12  commit  loki-doki  docs: chat product layer section + prompt-zone additions
+2026-08-14  commit  loki-doki  chat: stop asterisking a companion's replies for unrestricted accounts
+2026-08-14  commit  loki-doki  self-update: stop the pipeline dirtying the tree against itself
+2026-08-14  commit  loki-doki  self-update: survive a Windows scanner holding the freshly built bundle
+2026-08-13  commit  loki-doki  useAutoRefresh: drop the dead day key that was blocking every update
+2026-08-13  commit  loki-doki  local news: a thumbnail is not worth three minutes of dead air
 ```
 <!--ACTIVITY:END-->
 
