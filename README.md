@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-25  commit  .github    Initial commit
-2026-08-14  commit  loki-doki  chat: stop asterisking a companion's replies for unrestricted accounts
-2026-08-14  commit  loki-doki  self-update: stop the pipeline dirtying the tree against itself
-2026-08-14  commit  loki-doki  self-update: survive a Windows scanner holding the freshly built bundle
-2026-08-13  commit  loki-doki  useAutoRefresh: drop the dead day key that was blocking every update
+2026-08-26  commit  home  fix: the Medical page wore Reference's name, icon and colour
+2026-08-26  commit  home  fix: archive search results showed their own markup as text
+2026-08-26  commit  home  fix: the grey column was our own dark palette painting empty wrappers
+2026-08-26  commit  home  fix: the thin grey column beside Wikipedia was an empty rail we were painting
+2026-08-26  commit  home  fix: medical search crashed the page as soon as the offline library worked
 ```
 <!--ACTIVITY:END-->
 
