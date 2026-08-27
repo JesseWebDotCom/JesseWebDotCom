@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-26  commit  home  fix: the Medical page wore Reference's name, icon and colour
-2026-08-26  commit  home  fix: archive search results showed their own markup as text
-2026-08-26  commit  home  fix: the grey column was our own dark palette painting empty wrappers
-2026-08-26  commit  home  fix: the thin grey column beside Wikipedia was an empty rail we were painting
-2026-08-26  commit  home  fix: medical search crashed the page as soon as the offline library worked
+2026-08-27  commit  home  takeover: collapsed strip preserves layout exactly, fades instead of hiding
+2026-08-27  commit  home  takeover: one universal collapsed-rail behavior
+2026-08-27  commit  home  takeover: collapsed sidebars keep an icon mini-rail; crumb icon centered
+2026-08-27  commit  home  cutover: the takeover shell is the default, no flag
+2026-08-27  commit  home  changelog: 0.4.0
 ```
 <!--ACTIVITY:END-->
 
