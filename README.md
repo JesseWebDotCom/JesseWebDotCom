@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-27  commit  home  takeover: collapsed strip preserves layout exactly, fades instead of hiding
-2026-08-27  commit  home  takeover: one universal collapsed-rail behavior
-2026-08-27  commit  home  takeover: collapsed sidebars keep an icon mini-rail; crumb icon centered
-2026-08-27  commit  home  cutover: the takeover shell is the default, no flag
-2026-08-27  commit  home  changelog: 0.4.0
+2026-08-28  commit  home     docs harness: refuse a screenshot while the screen is still loading
+2026-08-28  commit  .github  standards: every screenshot is looked at before it is used
+2026-08-28  commit  home     maps: offline regions says why the list failed to load instead of going blank
+2026-08-28  commit  home     maps: the no-regions notice sends admins to Offline regions, not Admin > Featur
+2026-08-28  commit  home     companion: a stated return home cancels an earlier away statement; transient me
 ```
 <!--ACTIVITY:END-->
 
