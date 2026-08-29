@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-28  commit  home     docs harness: refuse a screenshot while the screen is still loading
-2026-08-28  commit  .github  standards: every screenshot is looked at before it is used
-2026-08-28  commit  home     maps: offline regions says why the list failed to load instead of going blank
-2026-08-28  commit  home     maps: the no-regions notice sends admins to Offline regions, not Admin > Featur
-2026-08-28  commit  home     companion: a stated return home cancels an earlier away statement; transient me
+2026-08-29  commit  home  youtube: cookie-bearing yt-dlp runs use the master jar under a lock so rotated coo
+2026-08-29  commit  home  youtube: the wall is detected however the apostrophe arrives; resolvers try the ja
+2026-08-29  commit  home  youtube: survive the bot wall on our own - cookies-first once a wall is seen (audi
+2026-08-29  commit  home  youtube: on the bot wall, retry with the uploaded cookies and tell an admin once a
+2026-08-29  commit  home  tiktok: expired signed thumbnails re-resolve through /api/videos/tiktok/thumb/:id;
 ```
 <!--ACTIVITY:END-->
 
