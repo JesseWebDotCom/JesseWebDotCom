@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-29  commit  home  youtube: cookie-bearing yt-dlp runs use the master jar under a lock so rotated coo
-2026-08-29  commit  home  youtube: the wall is detected however the apostrophe arrives; resolvers try the ja
-2026-08-29  commit  home  youtube: survive the bot wall on our own - cookies-first once a wall is seen (audi
-2026-08-29  commit  home  youtube: on the bot wall, retry with the uploaded cookies and tell an admin once a
-2026-08-29  commit  home  tiktok: expired signed thumbnails re-resolve through /api/videos/tiktok/thumb/:id;
+2026-08-30  commit  home  youtube session: switch phone-prompt 2SV to a typed authenticator/backup code
+2026-08-30  commit  home  youtube session: keep the browser profile warm across reconnects + resend the phon
+2026-08-30  commit  home  youtube session worker: poll the email->password step too (cold-profile risk check
+2026-08-30  commit  home  youtube session: fix the login classifier and handle phone-prompt 2SV
+2026-08-29  commit  home  youtube session worker: classify the email step from URL+body when the race is inc
 ```
 <!--ACTIVITY:END-->
 
