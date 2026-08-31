@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-30  commit  home  youtube session: switch phone-prompt 2SV to a typed authenticator/backup code
-2026-08-30  commit  home  youtube session: keep the browser profile warm across reconnects + resend the phon
-2026-08-30  commit  home  youtube session worker: poll the email->password step too (cold-profile risk check
-2026-08-30  commit  home  youtube session: fix the login classifier and handle phone-prompt 2SV
-2026-08-29  commit  home  youtube session worker: classify the email step from URL+body when the race is inc
+2026-08-30  commit  home  youtube session worker: click through post-2FA interstitials before finishing
+2026-08-30  commit  home  youtube connect: show 'Verifying…' after a code, and re-prompt inline on a wrong c
+2026-08-30  commit  home  youtube connect modal: explicit dismiss that cancels the login
+2026-08-30  commit  home  youtube connect: don't resurrect a dead 2FA modal on refresh
+2026-08-30  commit  home  youtube connect modal: fix email prop type, move the 2FA heads-up out of the initi
 ```
 <!--ACTIVITY:END-->
 
