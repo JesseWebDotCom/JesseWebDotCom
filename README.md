@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-30  commit  home  youtube session worker: click through post-2FA interstitials before finishing
-2026-08-30  commit  home  youtube connect: show 'Verifying…' after a code, and re-prompt inline on a wrong c
-2026-08-30  commit  home  youtube connect modal: explicit dismiss that cancels the login
-2026-08-30  commit  home  youtube connect: don't resurrect a dead 2FA modal on refresh
-2026-08-30  commit  home  youtube connect modal: fix email prop type, move the 2FA heads-up out of the initi
+2026-08-31  commit  home     wakeword: ship the retrained "Hey MaiPai" detector
+2026-08-31  commit  home     wakeword: do not attach a detector that failed certification
+2026-08-31  commit  home     wakeword: train one phrase, and refuse to call a failure a success
+2026-08-31  commit  home     wakeword: drive pip as a module, not by spawning pip.exe
+2026-08-31  commit  .github  standards: how to train a model, learned from a wake word that failed
 ```
 <!--ACTIVITY:END-->
 
