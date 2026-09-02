@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-08-31  commit  home     wakeword: ship the retrained "Hey MaiPai" detector
-2026-08-31  commit  home     wakeword: do not attach a detector that failed certification
-2026-08-31  commit  home     wakeword: train one phrase, and refuse to call a failure a success
-2026-08-31  commit  home     wakeword: drive pip as a module, not by spawning pip.exe
-2026-08-31  commit  .github  standards: how to train a model, learned from a wake word that failed
+2026-09-01  commit  home  release prep: 0.5.0 changelog, and the docs catch up with YouTube connect
+2026-09-01  commit  home  voice: teach the spoken register from real conversation, and prove it live
+2026-09-01  commit  home  voice: answer a re-asked question the way a person does the second time
+2026-09-01  commit  home  voice: make spoken replies sound like a person, not a model
+2026-08-31  commit  home  wakeword: ship the retrained "Hey MaiPai" detector
 ```
 <!--ACTIVITY:END-->
 
