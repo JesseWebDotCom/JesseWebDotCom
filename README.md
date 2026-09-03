@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
+2026-09-03  commit  home  release: v0.6.1
+2026-09-03  commit  home  youtube token provider: install devDependencies under NODE_ENV=production, retry p
+2026-09-03  commit  home  release: v0.6.0
+2026-09-02  commit  home  youtube: go quiet for real, one budget for every request, bgutil replaces rustypip
 2026-09-01  commit  home  release prep: 0.5.0 changelog, and the docs catch up with YouTube connect
-2026-09-01  commit  home  voice: teach the spoken register from real conversation, and prove it live
-2026-09-01  commit  home  voice: answer a re-asked question the way a person does the second time
-2026-09-01  commit  home  voice: make spoken replies sound like a person, not a model
-2026-08-31  commit  home  wakeword: ship the retrained "Hey MaiPai" detector
 ```
 <!--ACTIVITY:END-->
 
