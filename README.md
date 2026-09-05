@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-04  commit  home  docs: a real README and a real screenshot pipeline
-2026-09-04  commit  home  feat: a People page (list + add), the third real page tonight
-2026-09-04  commit  home  feat: the settings renderer, a second page, and a component test harness
-2026-09-04  commit  home  feat: shell, kit, and the Chat package (chapter 6, split)
-2026-09-04  commit  home  docs: port wake word and voice-pipeline learnings from home-legacy
+2026-09-05  commit  home  Note a real dictionaryapi.dev outage found live-testing define tonight
+2026-09-05  commit  home  Document the Home Assistant integration slice, and its live verification
+2026-09-05  commit  home  Close the permission-vocab gap for home.call_service, and build a real one
+2026-09-05  commit  home  Document real-data hygiene finding: orphaned test chat turns
+2026-09-05  commit  home  Add the joke skill, and document why Home Assistant waits
 ```
 <!--ACTIVITY:END-->
 
