@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-05  commit  home  docs: two parallel session plans, intelligence and the UI on frameworks
-2026-09-05  commit  home  docs: backlog from the 2026-09-05 audit of plan, code and legacy
-2026-09-05  commit  home  docs: reword a 'not just X' construction the prose lint rejects
-2026-09-05  commit  home  Add a real notification system: pending list, toast, Telegram
-2026-09-05  commit  home  Add Entity, Relationship and Grant to the spec
+2026-09-07  commit  home  Fix the actual bug behind the chat engine dying silently, and auto-heal every engi
+2026-09-07  commit  home  Fix B: package failures speak honestly, never in the model's own voice
+2026-09-07  commit  home  Fix D follow-up: the null-row noise floor excludes rows designed to score high
+2026-09-07  commit  home  Chat composer, saved conversations, and Fix D routing thresholds
+2026-09-07  commit  home  Self-heal a dead chat backend instead of failing forever
 ```
 <!--ACTIVITY:END-->
 
