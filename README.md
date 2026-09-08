@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-07  commit  home  Fix the actual bug behind the chat engine dying silently, and auto-heal every engi
-2026-09-07  commit  home  Fix B: package failures speak honestly, never in the model's own voice
-2026-09-07  commit  home  Fix D follow-up: the null-row noise floor excludes rows designed to score high
-2026-09-07  commit  home  Chat composer, saved conversations, and Fix D routing thresholds
-2026-09-07  commit  home  Self-heal a dead chat backend instead of failing forever
+2026-09-07  commit  home  Look up automatically instead of declining when a household member asks a follow-u
+2026-09-07  commit  home  Fix near_echo false-flagging plain greeting reciprocations
+2026-09-07  commit  home  Fix E follow-up: websearch always offered, dangling-comma bug fixed
+2026-09-07  commit  home  Fix E: native tool calling, replacing the grammar-forced JSON mechanism
+2026-09-07  commit  home  websearch: add natural-question routing examples, not just commands
 ```
 <!--ACTIVITY:END-->
 
