@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-07  commit  home  Look up automatically instead of declining when a household member asks a follow-u
-2026-09-07  commit  home  Fix near_echo false-flagging plain greeting reciprocations
-2026-09-07  commit  home  Fix E follow-up: websearch always offered, dangling-comma bug fixed
-2026-09-07  commit  home  Fix E: native tool calling, replacing the grammar-forced JSON mechanism
-2026-09-07  commit  home  websearch: add natural-question routing examples, not just commands
+2026-09-11  commit  home     Add simple local start, stop, and restart commands
+2026-09-11  commit  home     Restore the full verification gate with canonical knowledge provenance
+2026-09-11  commit  catalog  Report knowledge fetch failures through the host fallback
+2026-09-07  commit  home     Look up automatically instead of declining when a household member asks a follo
+2026-09-07  commit  home     Fix near_echo false-flagging plain greeting reciprocations
 ```
 <!--ACTIVITY:END-->
 
