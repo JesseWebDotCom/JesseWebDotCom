@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-11  commit  home     Add simple local start, stop, and restart commands
-2026-09-11  commit  home     Restore the full verification gate with canonical knowledge provenance
-2026-09-11  commit  catalog  Report knowledge fetch failures through the host fallback
-2026-09-07  commit  home     Look up automatically instead of declining when a household member asks a follo
-2026-09-07  commit  home     Fix near_echo false-flagging plain greeting reciprocations
+2026-09-13  commit  home     Fix package host fetch test isolation
+2026-09-13  commit  .github  Verification: sessions never launch a browser with a visible window
+2026-09-13  commit  home     Restrict ephemeral to a real fixed home-card question (getmaipai/home#91)
+2026-09-13  commit  home     Design CHAT-04: action claims against outcomes, acknowledgments pass
+2026-09-13  commit  home     One rule for the current branch after an edited turn
 ```
 <!--ACTIVITY:END-->
 
