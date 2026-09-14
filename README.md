@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-13  commit  home     Fix package host fetch test isolation
-2026-09-13  commit  .github  Verification: sessions never launch a browser with a visible window
-2026-09-13  commit  home     Restrict ephemeral to a real fixed home-card question (getmaipai/home#91)
-2026-09-13  commit  home     Design CHAT-04: action claims against outcomes, acknowledgments pass
-2026-09-13  commit  home     One rule for the current branch after an edited turn
+2026-09-14  commit  home  EXP-01: experience and plan claims
+2026-09-14  commit  home  Lane 14 item 2: EVAL-07's memory replay (unit tests + orchestrator; dry run pendin
+2026-09-14  commit  home  REG-01: the seeded set recorded, and what its rows found
+2026-09-14  commit  home  Lane 14 item 1: name both DailyDialog transition measures; restore a swept index l
+2026-09-14  commit  home  REG-01: a statement is not a request, and the assistant register is stripped
 ```
 <!--ACTIVITY:END-->
 
