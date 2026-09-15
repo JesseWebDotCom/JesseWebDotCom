@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-14  commit  home  EXP-01: experience and plan claims
-2026-09-14  commit  home  Lane 14 item 2: EVAL-07's memory replay (unit tests + orchestrator; dry run pendin
-2026-09-14  commit  home  REG-01: the seeded set recorded, and what its rows found
-2026-09-14  commit  home  Lane 14 item 1: name both DailyDialog transition measures; restore a swept index l
-2026-09-14  commit  home  REG-01: a statement is not a request, and the assistant register is stripped
+2026-09-15  commit  home  Docs: Session A's handoff, the 2026-09-15 section
+2026-09-15  commit  home  LOOKUP-02 and ASK-02 follow-ups from the full set
+2026-09-15  commit  home  ASK-02: candidate hygiene, brands and services, hub-introduced names, the confirme
+2026-09-15  commit  home  LOOKUP-02 follow-ups from the set
+2026-09-15  commit  home  LOOKUP-02: the hedge is a promise, the offer binds its question, the forced lookup
 ```
 <!--ACTIVITY:END-->
 
