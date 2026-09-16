@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-15  commit  home  Docs: Session A's handoff, the 2026-09-15 section
-2026-09-15  commit  home  LOOKUP-02 and ASK-02 follow-ups from the full set
-2026-09-15  commit  home  ASK-02: candidate hygiene, brands and services, hub-introduced names, the confirme
-2026-09-15  commit  home  LOOKUP-02 follow-ups from the set
-2026-09-15  commit  home  LOOKUP-02: the hedge is a promise, the offer binds its question, the forced lookup
+2026-09-16  commit  home  Spec (COMP-01): define turn artifact documents
+2026-09-16  commit  home  Spec (FEED-01): define reply feedback labels
+2026-09-16  commit  home  Docs (codex-14): regenerate OpenAPI document
+2026-09-16  commit  home  Bench (GPU-01): size validation fill in tokens
+2026-09-16  commit  home  GPU-01: add engine validation bench
 ```
 <!--ACTIVITY:END-->
 
