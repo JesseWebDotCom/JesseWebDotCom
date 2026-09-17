@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-16  commit  home  Spec (COMP-01): define turn artifact documents
-2026-09-16  commit  home  Spec (FEED-01): define reply feedback labels
-2026-09-16  commit  home  Docs (codex-14): regenerate OpenAPI document
-2026-09-16  commit  home  Bench (GPU-01): size validation fill in tokens
-2026-09-16  commit  home  GPU-01: add engine validation bench
+2026-09-17  commit  home  GPU layout note superseded: one machine for the hub, a Mac Studio with 128 GB
+2026-09-16  commit  home  Chat (56): continue cut-off chat streams
+2026-09-16  commit  home  Chat (55): add temporary chat retention
+2026-09-16  commit  home  Chat (54): add parent-safe model picker
+2026-09-16  commit  home  docs: design chat parity program
 ```
 <!--ACTIVITY:END-->
 
