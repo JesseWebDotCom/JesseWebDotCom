@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-17  commit  home  GPU layout note superseded: one machine for the hub, a Mac Studio with 128 GB
-2026-09-16  commit  home  Chat (56): continue cut-off chat streams
-2026-09-16  commit  home  Chat (55): add temporary chat retention
-2026-09-16  commit  home  Chat (54): add parent-safe model picker
-2026-09-16  commit  home  docs: design chat parity program
+2026-09-18  commit  stack  Live walk (STACK-65): every console action exercised on a real data directory; fi
+2026-09-18  commit  stack  Things (STACK-64): Scan this computer
+2026-09-18  commit  stack  Server: a 255 second idle timeout; Check my Stack runs as a job with progress eve
+2026-09-18  commit  stack  Design: the desktop app is Tauri around the console; Scan now; real over mock (ST
+2026-09-18  commit  stack  Phone (STACK-54): a tab bar, list rows, grouped detail cards
 ```
 <!--ACTIVITY:END-->
 
