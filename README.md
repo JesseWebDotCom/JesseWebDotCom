@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-18  commit  stack  Live walk (STACK-65): every console action exercised on a real data directory; fi
-2026-09-18  commit  stack  Things (STACK-64): Scan this computer
-2026-09-18  commit  stack  Server: a 255 second idle timeout; Check my Stack runs as a job with progress eve
-2026-09-18  commit  stack  Design: the desktop app is Tauri around the console; Scan now; real over mock (ST
-2026-09-18  commit  stack  Phone (STACK-54): a tab bar, list rows, grouped detail cards
+2026-09-19  commit  stack  Console: the Setup and Login cards carry the brand; Clients has its route
+2026-09-19  commit  stack  Console: the second-run list, verified on real data
+2026-09-19  commit  stack  Site: real favicon set and 404s for missing file paths
+2026-09-18  commit  stack  Help (STACK-69): render shipped guides in the app
+2026-09-19  commit  stack  Desktop (STACK-76): the tray acts through the signed-in console
 ```
 <!--ACTIVITY:END-->
 
