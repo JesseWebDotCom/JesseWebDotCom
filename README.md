@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-19  commit  stack  Console: the Setup and Login cards carry the brand; Clients has its route
-2026-09-19  commit  stack  Console: the second-run list, verified on real data
-2026-09-19  commit  stack  Site: real favicon set and 404s for missing file paths
-2026-09-18  commit  stack  Help (STACK-69): render shipped guides in the app
-2026-09-19  commit  stack  Desktop (STACK-76): the tray acts through the signed-in console
+2026-09-20  commit  catalog  Tools: check --json
+2026-09-20  commit  catalog  Tools: the permission diff
+2026-09-20  commit  stack    STACK-94b: stt as a spawned engine on sherpa-onnx, proven live
+2026-09-20  commit  catalog  Tools: the licence check's review fixes
+2026-09-20  commit  stack    STACK-94a: the speech design note, stt on sherpa-onnx and tts on Pocket TTS
 ```
 <!--ACTIVITY:END-->
 
