@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-20  commit  catalog  Tools: check --json
-2026-09-20  commit  catalog  Tools: the permission diff
-2026-09-20  commit  stack    STACK-94b: stt as a spawned engine on sherpa-onnx, proven live
-2026-09-20  commit  catalog  Tools: the licence check's review fixes
-2026-09-20  commit  stack    STACK-94a: the speech design note, stt on sherpa-onnx and tts on Pocket TTS
+2026-09-21  commit  commons  spec-v0.1.10: ui.shell.next reachable in Settings (level expert -> advanced)
+2026-09-21  commit  home     ARTIFACT-02: the artifact recipe primitive, Home side
+2026-09-21  commit  commons  spec-v0.1.9: fix spec-v0.1.8's stale package.json version
+2026-09-21  commit  .github  UI: the vendored sources and how they are maintained
+2026-09-21  commit  home     Backlog: the shell program's rows, SHELL-01 to SHELL-08
 ```
 <!--ACTIVITY:END-->
 
