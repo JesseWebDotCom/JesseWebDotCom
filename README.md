@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-21  commit  commons  spec-v0.1.10: ui.shell.next reachable in Settings (level expert -> advanced)
-2026-09-21  commit  home     ARTIFACT-02: the artifact recipe primitive, Home side
-2026-09-21  commit  commons  spec-v0.1.9: fix spec-v0.1.8's stale package.json version
-2026-09-21  commit  .github  UI: the vendored sources and how they are maintained
-2026-09-21  commit  home     Backlog: the shell program's rows, SHELL-01 to SHELL-08
+2026-09-22  commit  commons  spec-v0.1.17: tool_call's own human label, manifest's tool_label
+2026-09-22  commit  home     Slice 5(c): the thinking indicator - a real wire event, not scaffolding
+2026-09-22  commit  commons  ui: ThreadComponents gains an Indicator slot, default swaps in the shipped Thin
+2026-09-22  commit  home     NextChatPage: a one-line seam for the tool_call label spec-v0.1.17 will add
+2026-09-22  commit  home     Slice 5(b): tool timeline, TOOL-EVENTS-01's frontend half (consumer before prod
 ```
 <!--ACTIVITY:END-->
 
