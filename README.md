@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-22  commit  commons  spec-v0.1.17: tool_call's own human label, manifest's tool_label
-2026-09-22  commit  home     Slice 5(c): the thinking indicator - a real wire event, not scaffolding
-2026-09-22  commit  commons  ui: ThreadComponents gains an Indicator slot, default swaps in the shipped Thin
-2026-09-22  commit  home     NextChatPage: a one-line seam for the tool_call label spec-v0.1.17 will add
-2026-09-22  commit  home     Slice 5(b): tool timeline, TOOL-EVENTS-01's frontend half (consumer before prod
+2026-09-23  commit  home     docs: VOICE-LIVE-05's verification - measured frame cost, captures, recording
+2026-09-23  commit  home     DEADLINE-01: a failed generation never delivers an empty reply
+2026-09-23  commit  home     THINK-DEFAULT-01: thinking is the person's toggle, not the budget's default
+2026-09-23  commit  home     VOICE-LIVE-05: the voice orb reads the primary token, gains flair, gets a gear
+2026-09-23  commit  commons  ui: VoiceConversation reads the primary token, gains two flair animations
 ```
 <!--ACTIVITY:END-->
 
