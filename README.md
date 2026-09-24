@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-23  commit  home     docs: VOICE-LIVE-05's verification - measured frame cost, captures, recording
-2026-09-23  commit  home     DEADLINE-01: a failed generation never delivers an empty reply
-2026-09-23  commit  home     THINK-DEFAULT-01: thinking is the person's toggle, not the budget's default
-2026-09-23  commit  home     VOICE-LIVE-05: the voice orb reads the primary token, gains flair, gets a gear
-2026-09-23  commit  commons  ui: VoiceConversation reads the primary token, gains two flair animations
+2026-09-24  commit  home  B-GUARD-02: one real-SearXNG clearance check, applied where each URL takes effect
+2026-09-24  commit  home  SEARCH-MIXED-01: a mixed round never lets the model paper over a failed search
+2026-09-24  commit  home  STREAM-PARTIAL-01: a mid-stream failure no longer erases what the household alread
+2026-09-24  commit  home  SAFETY-NOTIFY-NEXT-01: wire the new path's own parent notification to the old path
+2026-09-24  commit  home  SEARCH-FALLBACK-01: a second front door, Wikipedia's own official API
 ```
 <!--ACTIVITY:END-->
 
