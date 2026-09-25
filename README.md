@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-24  commit  home  B-GUARD-02: one real-SearXNG clearance check, applied where each URL takes effect
-2026-09-24  commit  home  SEARCH-MIXED-01: a mixed round never lets the model paper over a failed search
-2026-09-24  commit  home  STREAM-PARTIAL-01: a mid-stream failure no longer erases what the household alread
-2026-09-24  commit  home  SAFETY-NOTIFY-NEXT-01: wire the new path's own parent notification to the old path
-2026-09-24  commit  home  SEARCH-FALLBACK-01: a second front door, Wikipedia's own official API
+2026-09-25  commit  home  Screenshots: ignore intentional chat thread scroll (Fixes #124)
+2026-09-25  commit  home  Merge codex/351-issues-114-118 (auto-landed manually, gate clean except known mDNS
+2026-09-25  commit  home  Screenshots: fix runtime races (Fixes #114, Fixes #115, Fixes #116, Fixes #117, Fi
+2026-09-25  commit  home  Merge codex/349-issue-155 (auto-landed manually, gate clean except known mDNS exce
+2026-09-25  commit  home  Merge codex/346-issue-143 (auto-landed manually, gate clean except known mDNS exce
 ```
 <!--ACTIVITY:END-->
 
