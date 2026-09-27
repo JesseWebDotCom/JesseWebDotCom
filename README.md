@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-26  commit  home  Concentrate light Incognito violet in header
-2026-09-26  commit  home  BACKLOG: correct INCOGNITO-08's light-mode boost (91a623c9)
-2026-09-26  commit  home  Restrain light Incognito palette
-2026-09-26  commit  home  BACKLOG: INCOGNITO-08 sidebar/tone fix landed (50a3ea9c), needs Jesse's own confir
-2026-09-26  commit  home  Fix Incognito sidebar tint and tone
+2026-09-27  commit  home  docs: APPROVE-CARD-01 landed (closes #177)
+2026-09-27  commit  home  APPROVE-CARD-01: tap-to-approve card, ToolFallback.Approval
+2026-09-27  commit  home  APPROVE-CARD-01: parked-ask wire shape, read-time confirm.open, ask_answer resume
+2026-09-27  commit  home  docs: NEXTTABLE-ACTIONS-05 landed, series complete
+2026-09-27  commit  home  Engines: add lifecycle actions
 ```
 <!--ACTIVITY:END-->
 
