@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-27  commit  home  docs: APPROVE-CARD-01 landed (closes #177)
-2026-09-27  commit  home  APPROVE-CARD-01: tap-to-approve card, ToolFallback.Approval
-2026-09-27  commit  home  APPROVE-CARD-01: parked-ask wire shape, read-time confirm.open, ask_answer resume
-2026-09-27  commit  home  docs: NEXTTABLE-ACTIONS-05 landed, series complete
-2026-09-27  commit  home  Engines: add lifecycle actions
+2026-09-28  commit  .github  docs: RULES-AND-LEARNED-COMPONENTS.md, style adapter not steering vector
+2026-09-28  commit  home     STYLE-CORPUS-01: the content-preserving voice corpus builder
+2026-09-28  commit  bot      BACKLOG: close RM-06, cross-reference RM-05 against G4+G9
+2026-09-28  commit  bot      G9: the run loop, folding in G8's barge-in and G11's presence floor
+2026-09-28  commit  home     fix: profile paragraph carries identity facts only, event facts stay episodic
 ```
 <!--ACTIVITY:END-->
 
