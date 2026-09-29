@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-28  commit  .github  docs: RULES-AND-LEARNED-COMPONENTS.md, style adapter not steering vector
-2026-09-28  commit  home     STYLE-CORPUS-01: the content-preserving voice corpus builder
-2026-09-28  commit  bot      BACKLOG: close RM-06, cross-reference RM-05 against G4+G9
-2026-09-28  commit  bot      G9: the run loop, folding in G8's barge-in and G11's presence floor
-2026-09-28  commit  home     fix: profile paragraph carries identity facts only, event facts stay episodic
+2026-09-29  commit  bot   Merge codex/g10-body: push robot state to the hub
+2026-09-29  commit  bot   feat: report robot state to hub
+2026-09-29  commit  bot   docs: G10-BODY work order
+2026-09-29  commit  home  Merge robot-card-01-hub: robot device state reporting route
+2026-09-29  commit  home  feat: add robot device state reporting
 ```
 <!--ACTIVITY:END-->
 
