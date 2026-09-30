@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-29  commit  bot   Merge codex/g10-body: push robot state to the hub
-2026-09-29  commit  bot   feat: report robot state to hub
-2026-09-29  commit  bot   docs: G10-BODY work order
-2026-09-29  commit  home  Merge robot-card-01-hub: robot device state reporting route
-2026-09-29  commit  home  feat: add robot device state reporting
+2026-09-30  commit  home     Docs: the fit verdict on every model, design note and HOME-FIT-01 to 05
+2026-09-30  commit  stack    Stack: plan an MLX model from its repository metadata, the module (STACK-SIZE-1
+2026-09-30  commit  home     STATUS-A2b: the status page with a banner, component rows and admin Restart con
+2026-09-30  commit  commons  Backlog: SIZER-SPEC-02 decided (the KV setting maps to the engine's KV type)
+2026-09-30  commit  stack    docs: drop the stale sentence about MLX cache flags (STACK-SIZE-04 landed)
 ```
 <!--ACTIVITY:END-->
 
