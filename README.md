@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-09-30  commit  home     Docs: the fit verdict on every model, design note and HOME-FIT-01 to 05
-2026-09-30  commit  stack    Stack: plan an MLX model from its repository metadata, the module (STACK-SIZE-1
-2026-09-30  commit  home     STATUS-A2b: the status page with a banner, component rows and admin Restart con
-2026-09-30  commit  commons  Backlog: SIZER-SPEC-02 decided (the KV setting maps to the engine's KV type)
-2026-09-30  commit  stack    docs: drop the stale sentence about MLX cache flags (STACK-SIZE-04 landed)
+2026-10-01  commit  home   Home: the live benches can talk to the Stack (STACK16-E5C)
+2026-10-01  commit  home   docs: report STATUS-FLAP-01 investigation
+2026-10-01  commit  home   STATUS-FLAP-01: ignore stale local chat state for Stack health
+2026-10-01  commit  stack  Stack: on a 24 GB machine the judge shares the chat model (STACK-CHAT-02)
+2026-10-01  commit  home   Home: no own engine at boot for a role on the Stack (HOME-BOOT-01)
 ```
 <!--ACTIVITY:END-->
 
