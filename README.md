@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-01  commit  home   Home: the live benches can talk to the Stack (STACK16-E5C)
-2026-10-01  commit  home   docs: report STATUS-FLAP-01 investigation
-2026-10-01  commit  home   STATUS-FLAP-01: ignore stale local chat state for Stack health
-2026-10-01  commit  stack  Stack: on a 24 GB machine the judge shares the chat model (STACK-CHAT-02)
-2026-10-01  commit  home   Home: no own engine at boot for a role on the Stack (HOME-BOOT-01)
+2026-10-02  commit  home  FIT-WORDS-01: badge words and source words for the fit verdict
+2026-10-02  commit  home  MODELS-LAYOUT-01: the fit capture opens Details
+2026-10-02  commit  home  MODELS-LAYOUT-01: the AI models page says its name once
+2026-10-02  commit  home  LIB-EMPTY-01: an empty Library says what will appear
+2026-10-02  commit  home  SHOT-STACK-01: scope the Stack and routing seeds to the named captures
 ```
 <!--ACTIVITY:END-->
 
