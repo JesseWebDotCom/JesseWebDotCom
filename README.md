@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-02  commit  home  FIT-WORDS-01: badge words and source words for the fit verdict
-2026-10-02  commit  home  MODELS-LAYOUT-01: the fit capture opens Details
-2026-10-02  commit  home  MODELS-LAYOUT-01: the AI models page says its name once
-2026-10-02  commit  home  LIB-EMPTY-01: an empty Library says what will appear
-2026-10-02  commit  home  SHOT-STACK-01: scope the Stack and routing seeds to the named captures
+2026-10-03  commit  home  Backlog: tick THIN-4H, THIN-5F and CANVAS-READ-01 with their verifying commits
+2026-10-03  commit  home  THIN-4H: a guest never reaches the hosted provider, a bad stored key falls back, p
+2026-10-03  commit  home  THIN-5A: the engine-client tests talk to their own engine, so a stray background r
+2026-10-03  commit  home  Backlog: tick THIN-5A, THIN-5B and THIN-5C with their verifying commits
+2026-10-03  commit  home  THIN-5C: the gate's grain follows the person
 ```
 <!--ACTIVITY:END-->
 
