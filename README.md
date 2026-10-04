@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-03  commit  home  Backlog: tick THIN-4H, THIN-5F and CANVAS-READ-01 with their verifying commits
-2026-10-03  commit  home  THIN-4H: a guest never reaches the hosted provider, a bad stored key falls back, p
-2026-10-03  commit  home  THIN-5A: the engine-client tests talk to their own engine, so a stray background r
-2026-10-03  commit  home  Backlog: tick THIN-5A, THIN-5B and THIN-5C with their verifying commits
-2026-10-03  commit  home  THIN-5C: the gate's grain follows the person
+2026-10-04  commit  home  THIN-GROUND-01: search rotation skips image and video engines; the search message 
+2026-10-04  commit  home  SMOKE-CHAT-01: bun run smoke:chat, a real end-to-end chat smoke test
+2026-10-03  commit  home  Backlog: TEST-TMP-LEAK-01, our tests leave 78 GB of temp folders behind
+2026-10-03  commit  home  Backlog: THIN-DL-01 and THIN-DL-02 added and ticked with verified-at
+2026-10-03  commit  home  THIN-DL-02: a failed generation is told by its kind, never "Sorry, I couldn't do t
 ```
 <!--ACTIVITY:END-->
 
