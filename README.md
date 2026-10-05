@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-04  commit  home  THIN-GROUND-01: search rotation skips image and video engines; the search message 
-2026-10-04  commit  home  SMOKE-CHAT-01: bun run smoke:chat, a real end-to-end chat smoke test
-2026-10-03  commit  home  Backlog: TEST-TMP-LEAK-01, our tests leave 78 GB of temp folders behind
-2026-10-03  commit  home  Backlog: THIN-DL-01 and THIN-DL-02 added and ticked with verified-at
-2026-10-03  commit  home  THIN-DL-02: a failed generation is told by its kind, never "Sorry, I couldn't do t
+2026-10-05  commit  home     feat(chat): add search map and command palette
+2026-10-05  commit  home     Docs: chat guide for drafts, citations, pinning, search, scrolling and errors
+2026-10-05  commit  home     Add Firefox chat stream visual audit
+2026-10-05  commit  bot      docs: mark gravity compensation SDK methods unverified
+2026-10-05  commit  commons  spec: reject null background turn flags and regenerate models
 ```
 <!--ACTIVITY:END-->
 
