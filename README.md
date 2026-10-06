@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-05  commit  home     feat(chat): add search map and command palette
-2026-10-05  commit  home     Docs: chat guide for drafts, citations, pinning, search, scrolling and errors
-2026-10-05  commit  home     Add Firefox chat stream visual audit
-2026-10-05  commit  bot      docs: mark gravity compensation SDK methods unverified
-2026-10-05  commit  commons  spec: reject null background turn flags and regenerate models
+2026-10-06  commit  home     Chat: hide empty reply queue row
+2026-10-06  commit  commons  spec: a model record declares image input and its projector (VISION-01a)
+2026-10-06  commit  home     UPLOAD-IMG-02: sent pictures survive a reload, children get no photo controls, 
+2026-10-06  commit  home     fix(chat): refresh status after engine failure
+2026-10-06  commit  home     fix(chat): the first message in a saved empty chat stays on screen on a slow hu
 ```
 <!--ACTIVITY:END-->
 
