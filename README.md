@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-06  commit  home     Chat: hide empty reply queue row
-2026-10-06  commit  commons  spec: a model record declares image input and its projector (VISION-01a)
-2026-10-06  commit  home     UPLOAD-IMG-02: sent pictures survive a reload, children get no photo controls, 
-2026-10-06  commit  home     fix(chat): refresh status after engine failure
-2026-10-06  commit  home     fix(chat): the first message in a saved empty chat stays on screen on a slow hu
+2026-10-07  commit  home     UPLOAD-IMG-02: refresh live picture capability
+2026-10-07  commit  home     ELT-MODE-01: keep model names out of chat
+2026-10-07  commit  commons  Keep compact thread rows touch safe
+2026-10-07  commit  commons  Add compact thread row minimum token
+2026-10-07  commit  home     test: wait for DataTable sort controls
 ```
 <!--ACTIVITY:END-->
 
