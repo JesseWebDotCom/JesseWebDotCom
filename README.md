@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-07  commit  home     UPLOAD-IMG-02: refresh live picture capability
-2026-10-07  commit  home     ELT-MODE-01: keep model names out of chat
-2026-10-07  commit  commons  Keep compact thread rows touch safe
-2026-10-07  commit  commons  Add compact thread row minimum token
-2026-10-07  commit  home     test: wait for DataTable sort controls
+2026-10-08  commit  home  feat(chat): use approval card for package asks
+2026-10-08  commit  home  SETTINGS-DENSITY-01: widen settings layout
+2026-10-08  commit  home  docs: record accent follow-up and the header search size item
+2026-10-08  commit  home  feat: the profile accent colours the shell (SETTINGS-APPEARANCE-01)
+2026-10-08  commit  home  feat: the Cmd/Ctrl+K command palette opens large (SEARCH-MODAL-SIZE-01)
 ```
 <!--ACTIVITY:END-->
 
