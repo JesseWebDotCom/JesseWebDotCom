@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-08  commit  home  feat(chat): use approval card for package asks
-2026-10-08  commit  home  SETTINGS-DENSITY-01: widen settings layout
-2026-10-08  commit  home  docs: record accent follow-up and the header search size item
-2026-10-08  commit  home  feat: the profile accent colours the shell (SETTINGS-APPEARANCE-01)
-2026-10-08  commit  home  feat: the Cmd/Ctrl+K command palette opens large (SEARCH-MODAL-SIZE-01)
+2026-10-09  commit  home  PAIR-WIRE-01: pairing reply carries hmac_sha256 beside hmac; the engine helper acc
+2026-10-09  commit  home  ENGINES-AI-01: one Engines and AI settings page with a pairing wizard
+2026-10-09  commit  home  TEST-ORDER-01: protect shared search dataset from matcher mutation
+2026-10-09  commit  home  ENGINE-TRAP-01: maipai-engine update cleans up its work folder once, without an un
+2026-10-09  commit  home  PAIR-COPY-01: pairing refusal says to open Home at its https:// address
 ```
 <!--ACTIVITY:END-->
 
