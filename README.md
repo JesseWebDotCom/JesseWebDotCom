@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-09  commit  home  PAIR-WIRE-01: pairing reply carries hmac_sha256 beside hmac; the engine helper acc
-2026-10-09  commit  home  ENGINES-AI-01: one Engines and AI settings page with a pairing wizard
-2026-10-09  commit  home  TEST-ORDER-01: protect shared search dataset from matcher mutation
-2026-10-09  commit  home  ENGINE-TRAP-01: maipai-engine update cleans up its work folder once, without an un
-2026-10-09  commit  home  PAIR-COPY-01: pairing refusal says to open Home at its https:// address
+2026-10-10  commit  home  Merge chat backlog rows CHAT-CLOCK-01, CHAT-HISTORY-TOOLPAIR-01, CHAT-FALSE-CLAIM-
+2026-10-10  commit  home  Merge NEXT-RETIRE-02I
+2026-10-10  commit  home  NEXT-RETIRE-02I: AliasRedirect trims a trailing slash before the alias lookup
+2026-10-10  commit  home  CHAT-CLOCK-01, CHAT-HISTORY-TOOLPAIR-01, CHAT-FALSE-CLAIM-01: add three chat backl
+2026-10-10  commit  home  Merge KS-MODE-00 pin bump to spec-v0.1.116
 ```
 <!--ACTIVITY:END-->
 
