@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-10  commit  home  Merge chat backlog rows CHAT-CLOCK-01, CHAT-HISTORY-TOOLPAIR-01, CHAT-FALSE-CLAIM-
-2026-10-10  commit  home  Merge NEXT-RETIRE-02I
-2026-10-10  commit  home  NEXT-RETIRE-02I: AliasRedirect trims a trailing slash before the alias lookup
-2026-10-10  commit  home  CHAT-CLOCK-01, CHAT-HISTORY-TOOLPAIR-01, CHAT-FALSE-CLAIM-01: add three chat backl
-2026-10-10  commit  home  Merge KS-MODE-00 pin bump to spec-v0.1.116
+2026-10-10  commit  home     NOTIF-HEADER-TITLE-01: header shows Notifications on /notifications
+2026-10-11  commit  home     STATUS-REASON-01: name the optional part in Chat's status reason and show it un
+2026-10-11  commit  commons  Merge origin/main into the ui-v0.5.185 to 191 line (tags stay on their commits)
+2026-10-11  commit  home     KS-02B: retire the bundled knowledge and define packages
+2026-10-11  commit  home     KS-02C: show_images reads the installed library first for the Wikipedia page
 ```
 <!--ACTIVITY:END-->
 
