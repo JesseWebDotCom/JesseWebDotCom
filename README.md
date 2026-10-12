@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-10  commit  home     NOTIF-HEADER-TITLE-01: header shows Notifications on /notifications
-2026-10-11  commit  home     STATUS-REASON-01: name the optional part in Chat's status reason and show it un
-2026-10-11  commit  commons  Merge origin/main into the ui-v0.5.185 to 191 line (tags stay on their commits)
-2026-10-11  commit  home     KS-02B: retire the bundled knowledge and define packages
-2026-10-11  commit  home     KS-02C: show_images reads the installed library first for the Wikipedia page
+2026-10-12  commit  home  SETTINGS-LAYERS-01c: per-person site blocks, web sources and list downloads on the
+2026-10-12  commit  home  EASE-OF-USE-01-RULES: rail widens at Large targets; rule 13 measured at Standard r
+2026-10-12  commit  home  SETTINGS-LAYERS-01b: the settings resolver and the one write gate for per-person l
+2026-10-12  commit  home  SETTINGS-LAYERS-01a: layers, merge kinds, band scope and set_by on settings; pins 
+2026-10-12  commit  home  KS-05d: drop the DOGOnews feed (404, sign-in required)
 ```
 <!--ACTIVITY:END-->
 
