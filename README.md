@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-12  commit  home  SETTINGS-LAYERS-01c: per-person site blocks, web sources and list downloads on the
-2026-10-12  commit  home  EASE-OF-USE-01-RULES: rail widens at Large targets; rule 13 measured at Standard r
-2026-10-12  commit  home  SETTINGS-LAYERS-01b: the settings resolver and the one write gate for per-person l
-2026-10-12  commit  home  SETTINGS-LAYERS-01a: layers, merge kinds, band scope and set_by on settings; pins 
-2026-10-12  commit  home  KS-05d: drop the DOGOnews feed (404, sign-in required)
+2026-10-12  commit  home  CHAT-LATE-SYSTEM-01: notes ride on their turn; no system message after the first, 
+2026-10-12  commit  home  ROUTER-BUILD-03: deciders, replay, dev CV script and pre-registration tooling for 
+2026-10-12  commit  home  HUB-SMOKE-01: the chat smoke fails a turn whose reply is the visible failure copy;
+2026-10-12  commit  home  ROUTER-BUILD-02: design and pre-registered pass marks for how chat decides to sear
+2026-10-12  commit  home  ROUTER-BUILD-01i: the bench scorer credits a rescued search; live probe of the res
 ```
 <!--ACTIVITY:END-->
 
