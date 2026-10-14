@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-12  commit  home  CHAT-LATE-SYSTEM-01: notes ride on their turn; no system message after the first, 
-2026-10-12  commit  home  ROUTER-BUILD-03: deciders, replay, dev CV script and pre-registration tooling for 
-2026-10-12  commit  home  HUB-SMOKE-01: the chat smoke fails a turn whose reply is the visible failure copy;
-2026-10-12  commit  home  ROUTER-BUILD-02: design and pre-registered pass marks for how chat decides to sear
-2026-10-12  commit  home  ROUTER-BUILD-01i: the bench scorer credits a rescued search; live probe of the res
+2026-10-14  commit  home     Serve trivia from a reviewed local bank by age band
+2026-10-14  commit  catalog  Sync the current Home weather package into the catalog
+2026-10-14  commit  catalog  Load the pinned PrivacyRow schema before catalog lint
+2026-10-14  commit  catalog  Pin catalog validation to the PrivacyRow schema
+2026-10-14  commit  catalog  Carry data source provenance on media lookup
 ```
 <!--ACTIVITY:END-->
 
