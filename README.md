@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-14  commit  home     Serve trivia from a reviewed local bank by age band
-2026-10-14  commit  catalog  Sync the current Home weather package into the catalog
-2026-10-14  commit  catalog  Load the pinned PrivacyRow schema before catalog lint
-2026-10-14  commit  catalog  Pin catalog validation to the PrivacyRow schema
-2026-10-14  commit  catalog  Carry data source provenance on media lookup
+2026-10-15  commit  home     Docs: show the bell list and history for notifications, fix wake word download 
+2026-10-15  commit  home     Docs: verify Incognito, wake word and main menu text against the code
+2026-10-15  commit  home     FLAKY-WATCHENGINE-01: the graceful-exit test no longer fires the run-temp clean
+2026-10-15  commit  home     Setup wizard: the computer's own folder window, and each folder card shows its 
+2026-10-15  commit  commons  ui: Card gets a state prop (valid, invalid) that rings it green or red
 ```
 <!--ACTIVITY:END-->
 
