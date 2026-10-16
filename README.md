@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-15  commit  home     Docs: show the bell list and history for notifications, fix wake word download 
-2026-10-15  commit  home     Docs: verify Incognito, wake word and main menu text against the code
-2026-10-15  commit  home     FLAKY-WATCHENGINE-01: the graceful-exit test no longer fires the run-temp clean
-2026-10-15  commit  home     Setup wizard: the computer's own folder window, and each folder card shows its 
-2026-10-15  commit  commons  ui: Card gets a state prop (valid, invalid) that rings it green or red
+2026-10-16  commit  home  Fix load-induced flakes in SetupWizard backup-key and conversationHistory timing t
+2026-10-16  commit  bot   Fit the offer turn test and initiative docstring to the rebased turn kwargs
+2026-10-16  commit  bot   ALARM-PLAY-01: the safety alarm on the robot
+2026-10-16  commit  bot   SPEAK-02, SPEAK-04, FOLLOWUP-01: speaker evidence on every turn, fusion, follow-up
+2026-10-16  commit  bot   LIVE-VIEW-01: keep the app wiring test's loop stub in step
 ```
 <!--ACTIVITY:END-->
 
