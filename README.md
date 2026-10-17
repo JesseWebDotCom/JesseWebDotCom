@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-16  commit  home  Fix load-induced flakes in SetupWizard backup-key and conversationHistory timing t
-2026-10-16  commit  bot   Fit the offer turn test and initiative docstring to the rebased turn kwargs
-2026-10-16  commit  bot   ALARM-PLAY-01: the safety alarm on the robot
-2026-10-16  commit  bot   SPEAK-02, SPEAK-04, FOLLOWUP-01: speaker evidence on every turn, fusion, follow-up
-2026-10-16  commit  bot   LIVE-VIEW-01: keep the app wiring test's loop stub in step
+2026-10-17  commit  commons  UI: VideoPlayer Element (progress card with elapsed clock and Stop, then the cl
+2026-10-17  commit  home     release: v0.2.7
+2026-10-17  commit  home     Video generation: Stack API as built, measured clips, what Home needs next; VID
+2026-10-17  commit  home     IMGGEN: image engine decision record (Klein 4B on mflux, Z-Image-Turbo, SDXL-Li
+2026-10-17  commit  home     IMGTOOLS-03 to 05: backlog rows record what is built and what is open
 ```
 <!--ACTIVITY:END-->
 
