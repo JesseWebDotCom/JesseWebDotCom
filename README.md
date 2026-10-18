@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-17  commit  commons  UI: VideoPlayer Element (progress card with elapsed clock and Stop, then the cl
-2026-10-17  commit  home     release: v0.2.7
-2026-10-17  commit  home     Video generation: Stack API as built, measured clips, what Home needs next; VID
-2026-10-17  commit  home     IMGGEN: image engine decision record (Klein 4B on mflux, Z-Image-Turbo, SDXL-Li
-2026-10-17  commit  home     IMGTOOLS-03 to 05: backlog rows record what is built and what is open
+2026-10-18  commit  home  NEWS-04 slice 1: Key points (summarize action, idle step news.shelf.summaries, per
+2026-10-18  commit  home  CONTENT-POLICY-01: one per-person content-protection module (contentPolicyFor, che
+2026-10-18  commit  home  News reader: shared article cleaning (promo, newsletter, byline, related-links, cr
+2026-10-18  commit  home  MUSIC-GEN-20: karaoke on the song card (timed_lyrics from the engine's own lrc, sq
+2026-10-18  commit  home  MUSIC-GEN-19 review fixes: cover picture jobs carry purpose cover and never show a
 ```
 <!--ACTIVITY:END-->
 
