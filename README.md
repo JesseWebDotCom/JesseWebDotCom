@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-18  commit  home  NEWS-04 slice 1: Key points (summarize action, idle step news.shelf.summaries, per
-2026-10-18  commit  home  CONTENT-POLICY-01: one per-person content-protection module (contentPolicyFor, che
-2026-10-18  commit  home  News reader: shared article cleaning (promo, newsletter, byline, related-links, cr
-2026-10-18  commit  home  MUSIC-GEN-20: karaoke on the song card (timed_lyrics from the engine's own lrc, sq
-2026-10-18  commit  home  MUSIC-GEN-19 review fixes: cover picture jobs carry purpose cover and never show a
+2026-10-19  commit  home     Pictures: removing a person retries once when the picture tools are busy and sa
+2026-10-19  commit  home     IMGQ-09: the answer-picture re-ask is on by default (Jesse, 2026-10-19) and als
+2026-10-19  commit  home     Elements adoption record: kit tag ui-v0.5.294
+2026-10-19  commit  home     Chat: a chat a New chat closed reopens when you type in it, instead of 'convers
+2026-10-19  commit  commons  ui: the Erase preview no longer shows the painted area over the result, ui 0.5.
 ```
 <!--ACTIVITY:END-->
 
