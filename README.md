@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-19  commit  home     Pictures: removing a person retries once when the picture tools are busy and sa
-2026-10-19  commit  home     IMGQ-09: the answer-picture re-ask is on by default (Jesse, 2026-10-19) and als
-2026-10-19  commit  home     Elements adoption record: kit tag ui-v0.5.294
-2026-10-19  commit  home     Chat: a chat a New chat closed reopens when you type in it, instead of 'convers
-2026-10-19  commit  commons  ui: the Erase preview no longer shows the painted area over the result, ui 0.5.
+2026-10-20  commit  home  Robots: the robot brain recognises the shipped launcher's process, records its pid
+2026-10-20  commit  home  Robots: robot brain review fixes: a cancelled restart timer, Robots off wins over 
+2026-10-20  commit  home  Robots: Home runs each StackChan's Bot app as its own sidecar, pairs it with a sin
+2026-10-20  commit  home  Tests: robot voice tests turn Robots on first (ROBOT-VOICE-01 rebase onto ROBOTS-S
+2026-10-20  commit  home  Backlog: ROBOT-VOICE-01 built
 ```
 <!--ACTIVITY:END-->
 
