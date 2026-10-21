@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-20  commit  home  Robots: the robot brain recognises the shipped launcher's process, records its pid
-2026-10-20  commit  home  Robots: robot brain review fixes: a cancelled restart timer, Robots off wins over 
-2026-10-20  commit  home  Robots: Home runs each StackChan's Bot app as its own sidecar, pairs it with a sin
-2026-10-20  commit  home  Tests: robot voice tests turn Robots on first (ROBOT-VOICE-01 rebase onto ROBOTS-S
-2026-10-20  commit  home  Backlog: ROBOT-VOICE-01 built
+2026-10-21  commit  home     Chat: a claim about something recent is searched before it is denied, and 'show
+2026-10-21  commit  home     Settings, AI models: the model row wraps on a phone (fixes the red settings-mod
+2026-10-21  commit  home     Pin commons spec-v0.1.201 (persona.active_id lists the three robot companions)
+2026-10-21  commit  home     ROBOT-COMPANION-01: a robot's companion sets its controls; three lively compani
+2026-10-21  commit  commons  Spec: spec-v0.1.201 adds the lively-child, lively-teen and lively-adult compani
 ```
 <!--ACTIVITY:END-->
 
