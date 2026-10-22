@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-21  commit  home     Chat: a claim about something recent is searched before it is denied, and 'show
-2026-10-21  commit  home     Settings, AI models: the model row wraps on a phone (fixes the red settings-mod
-2026-10-21  commit  home     Pin commons spec-v0.1.201 (persona.active_id lists the three robot companions)
-2026-10-21  commit  home     ROBOT-COMPANION-01: a robot's companion sets its controls; three lively compani
-2026-10-21  commit  commons  Spec: spec-v0.1.201 adds the lively-child, lively-teen and lively-adult compani
+2026-10-22  commit  home  Pin Stack 0694f9a (the large coding model is offered with limits)
+2026-10-22  commit  home  Pin Stack 38a89e6 (a mode switch right after boot waits for the resident engines)
+2026-10-22  commit  home  Home mode: a settings save no longer resets the mode, the large model alone satisf
+2026-10-22  commit  home  Pin Stack df979f5 (right Splash pair for the heavy model, no yield delay in coding
+2026-10-22  commit  home  Home mode: readiness checklist and self-test in coding settings, coding screen in 
 ```
 <!--ACTIVITY:END-->
 
