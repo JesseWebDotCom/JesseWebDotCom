@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-22  commit  home  Pin Stack 0694f9a (the large coding model is offered with limits)
-2026-10-22  commit  home  Pin Stack 38a89e6 (a mode switch right after boot waits for the resident engines)
-2026-10-22  commit  home  Home mode: a settings save no longer resets the mode, the large model alone satisf
-2026-10-22  commit  home  Pin Stack df979f5 (right Splash pair for the heavy model, no yield delay in coding
-2026-10-22  commit  home  Home mode: readiness checklist and self-test in coding settings, coding screen in 
+2026-10-23  commit  home  Elements adoption list regenerated for ui-v0.5.320
+2026-10-23  commit  home  Pin: @maipai/ui to ui-v0.5.320 (the one app column; the compact column is exempt f
+2026-10-23  commit  home  Test: the owner's viewer is unmounted before the non-owner view is checked for Edi
+2026-10-23  commit  home  Search: the column's search opens from its header icon, as Chat's does; '/' opens 
+2026-10-23  commit  home  Weather: refresh the bundled copy from the catalog (provenance and hash)
 ```
 <!--ACTIVITY:END-->
 
