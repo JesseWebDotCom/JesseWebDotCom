@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-23  commit  home  Elements adoption list regenerated for ui-v0.5.320
-2026-10-23  commit  home  Pin: @maipai/ui to ui-v0.5.320 (the one app column; the compact column is exempt f
-2026-10-23  commit  home  Test: the owner's viewer is unmounted before the non-owner view is checked for Edi
-2026-10-23  commit  home  Search: the column's search opens from its header icon, as Chat's does; '/' opens 
-2026-10-23  commit  home  Weather: refresh the bundled copy from the catalog (provenance and hash)
+2026-10-24  commit  home     Gate: frontend runs keep their own lighter lock
+2026-10-23  commit  home     Gate: only the full scope takes the machine-wide lock
+2026-10-24  commit  commons  ui: add shared focal image cropping
+2026-10-23  commit  commons  ui: align story card footers and row heights
+2026-10-23  commit  .github  wt check: run the T1 beside-tests with the same 20 s timeout as the sharded gat
 ```
 <!--ACTIVITY:END-->
 
