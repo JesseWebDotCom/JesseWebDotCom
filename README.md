@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-24  commit  home     Gate: frontend runs keep their own lighter lock
-2026-10-23  commit  home     Gate: only the full scope takes the machine-wide lock
-2026-10-24  commit  commons  ui: add shared focal image cropping
-2026-10-23  commit  commons  ui: align story card footers and row heights
-2026-10-23  commit  .github  wt check: run the T1 beside-tests with the same 20 s timeout as the sharded gat
+2026-10-25  commit  home  Tests: the companion tab mocks restore the real video element after the file and t
+2026-10-25  commit  home  Tests: leftNavApps and PackageAppSidebar put the real fetch back after the home fi
+2026-10-25  commit  home  Tests: the All apps page test unmounts its trees and answers stray endpoints, so i
+2026-10-25  commit  home  Design: one record shape for a companion's sounds (ids into the master list); voic
+2026-10-25  commit  home  Design: speech sounds come from one master list with custom additions; privacy pag
 ```
 <!--ACTIVITY:END-->
 
