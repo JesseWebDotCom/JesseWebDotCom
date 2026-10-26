@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-25  commit  home  Tests: the companion tab mocks restore the real video element after the file and t
-2026-10-25  commit  home  Tests: leftNavApps and PackageAppSidebar put the real fetch back after the home fi
-2026-10-25  commit  home  Tests: the All apps page test unmounts its trees and answers stray endpoints, so i
-2026-10-25  commit  home  Design: one record shape for a companion's sounds (ids into the master list); voic
-2026-10-25  commit  home  Design: speech sounds come from one master list with custom additions; privacy pag
+2026-10-26  commit  commons  ui 0.5.358: CreationHeader description renders light markdown
+2026-10-26  commit  home     Generated: docs/api/openapi.json for the /api/ai routes
+2026-10-26  commit  home     Generated: docs/dev/code-map.md for the AI choices files
+2026-10-26  commit  home     Free up space never removes a saved style by id. AIMODELS-UNUSED-01
+2026-10-26  commit  home     Settings > AI and models: seven job cards, set everything to recommended, Free 
 ```
 <!--ACTIVITY:END-->
 
