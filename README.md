@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-26  commit  commons  ui 0.5.358: CreationHeader description renders light markdown
-2026-10-26  commit  home     Generated: docs/api/openapi.json for the /api/ai routes
-2026-10-26  commit  home     Generated: docs/dev/code-map.md for the AI choices files
-2026-10-26  commit  home     Free up space never removes a saved style by id. AIMODELS-UNUSED-01
-2026-10-26  commit  home     Settings > AI and models: seven job cards, set everything to recommended, Free 
+2026-10-27  commit  home  Code map: regenerate for WAKEUX-02
+2026-10-27  commit  home  WAKEUX-02: design note supersedes the launcher-hidden-on-Chat line
+2026-10-27  commit  home  WAKEUX-02: design note and backlog describe the hook and the pinned kit tags
+2026-10-27  commit  home  Wake word hook: only the active site reacts, so Chat never double-fires (WAKEUX-02
+2026-10-27  commit  home  Wake word listening indicator on every page, off-Chat wake opens Chat with the cal
 ```
 <!--ACTIVITY:END-->
 
