@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-27  commit  home  Code map: regenerate for WAKEUX-02
-2026-10-27  commit  home  WAKEUX-02: design note supersedes the launcher-hidden-on-Chat line
-2026-10-27  commit  home  WAKEUX-02: design note and backlog describe the hook and the pinned kit tags
-2026-10-27  commit  home  Wake word hook: only the active site reacts, so Chat never double-fires (WAKEUX-02
-2026-10-27  commit  home  Wake word listening indicator on every page, off-Chat wake opens Chat with the cal
+2026-10-28  commit  home  News: the image route never 404s, refused article figures are dropped, BBC thumbna
+2026-10-28  commit  home  Listen starts in seconds (small speech chunks); Discuss opens with a plain invitat
+2026-10-28  commit  home  Companions cards: a pictured companion uses the large avatar, so Tessa's face is t
+2026-10-28  commit  home  Pin core-v0.1.7
+2026-10-28  commit  home  Radio: play a saved station in the one mini player (RADIO-03)
 ```
 <!--ACTIVITY:END-->
 
