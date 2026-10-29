@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-28  commit  home  News: the image route never 404s, refused article figures are dropped, BBC thumbna
-2026-10-28  commit  home  Listen starts in seconds (small speech chunks); Discuss opens with a plain invitat
-2026-10-28  commit  home  Companions cards: a pictured companion uses the large avatar, so Tessa's face is t
-2026-10-28  commit  home  Pin core-v0.1.7
-2026-10-28  commit  home  Radio: play a saved station in the one mini player (RADIO-03)
+2026-10-29  commit  home  Bench: spoken margin runner prints the per-run first word times and the summary
+2026-10-29  commit  home  UI-3S-01d: screen 1 fixes from owner testing: busy feedback, job progress, drag an
+2026-10-29  commit  home  PLACEMENT-01: place the character anywhere in the frame, not only crop (COMPANION-
+2026-10-29  commit  home  CLIPPED-01: regenerate openapi
+2026-10-29  commit  home  CLIPPED-01: detect a character cut off by the picture edge and generate the missin
 ```
 <!--ACTIVITY:END-->
 
