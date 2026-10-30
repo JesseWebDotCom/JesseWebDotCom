@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-29  commit  home  Bench: spoken margin runner prints the per-run first word times and the summary
-2026-10-29  commit  home  UI-3S-01d: screen 1 fixes from owner testing: busy feedback, job progress, drag an
-2026-10-29  commit  home  PLACEMENT-01: place the character anywhere in the frame, not only crop (COMPANION-
-2026-10-29  commit  home  CLIPPED-01: regenerate openapi
-2026-10-29  commit  home  CLIPPED-01: detect a character cut off by the picture edge and generate the missin
+2026-10-30  commit  home  READER-13: Random article in the Wikipedia sidebar; use the kit's book icon
+2026-10-30  commit  home  MOON-APP-01: backlog row for a moon app with the animated night sky (owner idea, n
+2026-10-30  commit  home  UPLOAD-PICKER-01: the photo file picker never greys out while pictures are paused;
+2026-10-30  commit  home  Clock: Quick timers keep their minutes on the right and move Rename and Delete int
+2026-10-30  commit  home  READER-13: offline data settings grouped by topic with plain version descriptions,
 ```
 <!--ACTIVITY:END-->
 
