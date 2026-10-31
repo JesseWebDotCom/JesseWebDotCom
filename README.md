@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-30  commit  home  READER-13: Random article in the Wikipedia sidebar; use the kit's book icon
-2026-10-30  commit  home  MOON-APP-01: backlog row for a moon app with the animated night sky (owner idea, n
-2026-10-30  commit  home  UPLOAD-PICKER-01: the photo file picker never greys out while pictures are paused;
-2026-10-30  commit  home  Clock: Quick timers keep their minutes on the right and move Rename and Delete int
-2026-10-30  commit  home  READER-13: offline data settings grouped by topic with plain version descriptions,
+2026-10-31  commit  commons  ui: 0.5.434, EmptyStateGreeting takes a size prop (version and changelog)
+2026-10-31  commit  home     Removing someone: the Remove confirm and the Privacy page say older backups, lo
+2026-10-31  commit  home     Tier backlog audit 2026-10-31: eleven rows verified done with evidence, the res
+2026-10-31  commit  home     MEM-SPACE-08: helper wait really waits (found with a prompt-keeping test app), 
+2026-10-31  commit  home     Main red: AiGlance reads a status reply without closed_apps as an empty list (t
 ```
 <!--ACTIVITY:END-->
 
