@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-10-31  commit  commons  ui: 0.5.434, EmptyStateGreeting takes a size prop (version and changelog)
-2026-10-31  commit  home     Removing someone: the Remove confirm and the Privacy page say older backups, lo
-2026-10-31  commit  home     Tier backlog audit 2026-10-31: eleven rows verified done with evidence, the res
-2026-10-31  commit  home     MEM-SPACE-08: helper wait really waits (found with a prompt-keeping test app), 
-2026-10-31  commit  home     Main red: AiGlance reads a status reply without closed_apps as an empty list (t
+2026-11-01  commit  home     AI and models: one gear per job opens a summary of its levels (model, Recommend
+2026-11-01  commit  home     Reader: article header is the byline, the breadcrumb (app, category), the title
+2026-11-01  commit  home     Pin ui-v0.5.442
+2026-11-01  commit  home     Music design: every Create thing also gets a chat tool and a reusable card (lyr
+2026-11-01  commit  commons  ui: 0.5.442, ArticleView header order byline then breadcrumb
 ```
 <!--ACTIVITY:END-->
 
