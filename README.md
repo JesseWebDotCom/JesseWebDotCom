@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-01  commit  home     AI and models: one gear per job opens a summary of its levels (model, Recommend
-2026-11-01  commit  home     Reader: article header is the byline, the breadcrumb (app, category), the title
-2026-11-01  commit  home     Pin ui-v0.5.442
-2026-11-01  commit  home     Music design: every Create thing also gets a chat tool and a reusable card (lyr
-2026-11-01  commit  commons  ui: 0.5.442, ArticleView header order byline then breadcrumb
+2026-11-02  commit  commons  ui 0.5.467 (VIDEO-UI-02): VideoPlayer draft status, actionItems, icons row, Mor
+2026-11-02  commit  commons  UI-DECISIONS: VideoPlayer additions row (VIDEO-UI-02)
+2026-11-02  commit  commons  ui: ResultFeed Element and result_feed node with required poll_while (VIDEO-UI-
+2026-11-02  commit  commons  Spec: result_feed node with poll_while (VIDEO-UI-04, spec 0.1.304)
+2026-11-02  commit  commons  UI-DECISIONS: result-feed and poll_while ledger row (VIDEO-UI-04)
 ```
 <!--ACTIVITY:END-->
 
