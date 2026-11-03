@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-02  commit  commons  ui 0.5.467 (VIDEO-UI-02): VideoPlayer draft status, actionItems, icons row, Mor
-2026-11-02  commit  commons  UI-DECISIONS: VideoPlayer additions row (VIDEO-UI-02)
-2026-11-02  commit  commons  ui: ResultFeed Element and result_feed node with required poll_while (VIDEO-UI-
-2026-11-02  commit  commons  Spec: result_feed node with poll_while (VIDEO-UI-04, spec 0.1.304)
-2026-11-02  commit  commons  UI-DECISIONS: result-feed and poll_while ledger row (VIDEO-UI-04)
+2026-11-03  commit  commons  spec 0.1.321 (INSTALL-EVERYTHING-01): words for the Qwen-Image, LTX-2.5 and Boo
+2026-11-03  commit  home     VIDEO-LORA-09 and 10: styles docs, private style chips, edit_video argument tes
+2026-11-03  commit  home     Pin ui-v0.5.495
+2026-11-03  commit  home     Pin spec-v0.1.320
+2026-11-03  commit  home     VIDEO-LORA-09: the Create style picker (Styles, Characters, Strength), level ru
 ```
 <!--ACTIVITY:END-->
 
