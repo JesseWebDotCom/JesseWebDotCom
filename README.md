@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-03  commit  commons  spec 0.1.321 (INSTALL-EVERYTHING-01): words for the Qwen-Image, LTX-2.5 and Boo
-2026-11-03  commit  home     VIDEO-LORA-09 and 10: styles docs, private style chips, edit_video argument tes
-2026-11-03  commit  home     Pin ui-v0.5.495
-2026-11-03  commit  home     Pin spec-v0.1.320
-2026-11-03  commit  home     VIDEO-LORA-09: the Create style picker (Styles, Characters, Strength), level ru
+2026-11-04  commit  home  VIDEO-LORA-12: picture styles move onto the Lora record
+2026-11-04  commit  home  HLC: list the lyric translation and song fact tables that carry an hlc column
+2026-11-04  commit  home  MUSIC-FACTS-01: song facts from the MusicBrainz-linked Wikipedia page, kept locall
+2026-11-04  commit  home  IMG-OPS-05, IMG-OPS-06: picture.change takes more references and styles; picture.l
+2026-11-04  commit  home  Design: IMG-APP-02 words in chat, companion and Studio box; combine as change with
 ```
 <!--ACTIVITY:END-->
 
