@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-04  commit  home  VIDEO-LORA-12: picture styles move onto the Lora record
-2026-11-04  commit  home  HLC: list the lyric translation and song fact tables that carry an hlc column
-2026-11-04  commit  home  MUSIC-FACTS-01: song facts from the MusicBrainz-linked Wikipedia page, kept locall
-2026-11-04  commit  home  IMG-OPS-05, IMG-OPS-06: picture.change takes more references and styles; picture.l
-2026-11-04  commit  home  Design: IMG-APP-02 words in chat, companion and Studio box; combine as change with
+2026-11-05  commit  home  MUSIC-REMIX-01 R2b fix: the Add a song item shows for adults only; ChatPage menu t
+2026-11-05  commit  home  AUDIO-PARITY-01: V4 for every member, V5 Inspired voice, architect APPROVED
+2026-11-05  commit  home  MUSIC-REMIX-01 R2b: the chat composer accepts an attached song (frontend)
+2026-11-05  commit  home  MUSIC-REMIX-01 R2a: an attached song reaches the turn and edit_music (backend)
+2026-11-05  commit  home  PRODUCTION-VIDEO-01 A: generate_video takes saved subjects (looks added, reference
 ```
 <!--ACTIVITY:END-->
 
