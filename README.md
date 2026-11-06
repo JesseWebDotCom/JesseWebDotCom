@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-05  commit  home  MUSIC-REMIX-01 R2b fix: the Add a song item shows for adults only; ChatPage menu t
-2026-11-05  commit  home  AUDIO-PARITY-01: V4 for every member, V5 Inspired voice, architect APPROVED
-2026-11-05  commit  home  MUSIC-REMIX-01 R2b: the chat composer accepts an attached song (frontend)
-2026-11-05  commit  home  MUSIC-REMIX-01 R2a: an attached song reaches the turn and edit_music (backend)
-2026-11-05  commit  home  PRODUCTION-VIDEO-01 A: generate_video takes saved subjects (looks added, reference
+2026-11-06  commit  home  HOUSE-04d: houseLanFetch, the LAN fetch for the saved Home Assistant address and t
+2026-11-06  commit  home  HOUSE-04c: house action executor (service call, verify the device changed, exact u
+2026-11-06  commit  home  HOUSE-04b: houseAccess (see, control, confirm by room or item, band ceilings from 
+2026-11-06  commit  home  HOUSE-04a: house registry, Home Assistant devices and rooms into one typed list, s
+2026-11-06  commit  home  HOUSE-01b: classify the house.* grant actions (house.server owner only, room and i
 ```
 <!--ACTIVITY:END-->
 
