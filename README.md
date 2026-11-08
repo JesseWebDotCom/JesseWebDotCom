@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-06  commit  home  HOUSE-04d: houseLanFetch, the LAN fetch for the saved Home Assistant address and t
-2026-11-06  commit  home  HOUSE-04c: house action executor (service call, verify the device changed, exact u
-2026-11-06  commit  home  HOUSE-04b: houseAccess (see, control, confirm by room or item, band ceilings from 
-2026-11-06  commit  home  HOUSE-04a: house registry, Home Assistant devices and rooms into one typed list, s
-2026-11-06  commit  home  HOUSE-01b: classify the house.* grant actions (house.server owner only, room and i
+2026-11-08  commit  home     Pin Stack 351b132
+2026-11-08  commit  commons  spec 0.1.344: changelog and version for house/exposure matrix rows (HOUSE-08b)
+2026-11-08  commit  home     PWA: manifest id, scope, shortcuts, categories; iPhone full-screen tags
+2026-11-08  commit  commons  ui: flag the new Spanish entries needs-review
+2026-11-08  commit  home     Sounds form: Generate stays pinned at the bottom of the scrolling box on small 
 ```
 <!--ACTIVITY:END-->
 
