@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-08  commit  home     Pin Stack 351b132
-2026-11-08  commit  commons  spec 0.1.344: changelog and version for house/exposure matrix rows (HOUSE-08b)
-2026-11-08  commit  home     PWA: manifest id, scope, shortcuts, categories; iPhone full-screen tags
-2026-11-08  commit  commons  ui: flag the new Spanish entries needs-review
-2026-11-08  commit  home     Sounds form: Generate stays pinned at the bottom of the scrolling box on small 
+2026-11-09  commit  home  earlyMe test: type the result
+2026-11-09  commit  home  Startup: ask who is signed in while the code downloads, and fetch the main screens
+2026-11-09  commit  home  Faster loads: gzip and a year of caching for hashed app files, a logo and spinner 
+2026-11-09  commit  home  Test the header Search for phone app pages; refresh catalogs
+2026-11-09  commit  home  Pin ui-v0.5.554
 ```
 <!--ACTIVITY:END-->
 
