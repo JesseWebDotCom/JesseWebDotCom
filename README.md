@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-09  commit  home  earlyMe test: type the result
-2026-11-09  commit  home  Startup: ask who is signed in while the code downloads, and fetch the main screens
-2026-11-09  commit  home  Faster loads: gzip and a year of caching for hashed app files, a logo and spinner 
-2026-11-09  commit  home  Test the header Search for phone app pages; refresh catalogs
-2026-11-09  commit  home  Pin ui-v0.5.554
+2026-11-10  commit  home  i18n catalogs after removing the Home gear
+2026-11-10  commit  home  Pin ui-v0.5.574
+2026-11-10  commit  home  Desktop polish: Family cards with large avatars, no old Home gear, tinted missing 
+2026-11-10  commit  home  Styles browser: format the downloads count through lib/format
+2026-11-10  commit  home  Styles browser: only bases this household can use by default, real thumbnails, wha
 ```
 <!--ACTIVITY:END-->
 
