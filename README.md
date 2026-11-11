@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-10  commit  home  i18n catalogs after removing the Home gear
-2026-11-10  commit  home  Pin ui-v0.5.574
-2026-11-10  commit  home  Desktop polish: Family cards with large avatars, no old Home gear, tinted missing 
-2026-11-10  commit  home  Styles browser: format the downloads count through lib/format
-2026-11-10  commit  home  Styles browser: only bases this household can use by default, real thumbnails, wha
+2026-11-11  commit  home  DUPLEX-SPEED-2026-11-11: full-duplex speed design note (architect APPROVED 2026-11
+2026-11-11  commit  home  VOICE-LATENCY-01: relative import so the scripts typecheck resolves; code map
+2026-11-11  commit  home  VOICE-LATENCY-01: counts-only timing for each spoken turn (end of speech to first 
+2026-11-11  commit  home  Pack maker: the spec's state names (listen, think, speak) and provenance source, a
+2026-11-11  commit  home  LONGFORM: a synth of the person's can be a character of a production
 ```
 <!--ACTIVITY:END-->
 
