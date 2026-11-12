@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-11  commit  home  DUPLEX-SPEED-2026-11-11: full-duplex speed design note (architect APPROVED 2026-11
-2026-11-11  commit  home  VOICE-LATENCY-01: relative import so the scripts typecheck resolves; code map
-2026-11-11  commit  home  VOICE-LATENCY-01: counts-only timing for each spoken turn (end of speech to first 
-2026-11-11  commit  home  Pack maker: the spec's state names (listen, think, speak) and provenance source, a
-2026-11-11  commit  home  LONGFORM: a synth of the person's can be a character of a production
+2026-11-12  commit  home  FILM-REAL-05: measure how far each finished clip drifts from its starting picture 
+2026-11-12  commit  home  Installer opens the browser only on a first install (MAIPAI_NO_BROWSER skips it to
+2026-11-12  commit  home  FILM-REAL-04: a shot whose only supplied picture is a place or object starts from 
+2026-11-12  commit  home  Library tiles show the name on the picture (STUDIO-LOOK-01)
+2026-11-12  commit  home  Pin ui-v0.5.615
 ```
 <!--ACTIVITY:END-->
 
