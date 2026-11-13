@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-12  commit  home  FILM-REAL-05: measure how far each finished clip drifts from its starting picture 
-2026-11-12  commit  home  Installer opens the browser only on a first install (MAIPAI_NO_BROWSER skips it to
-2026-11-12  commit  home  FILM-REAL-04: a shot whose only supplied picture is a place or object starts from 
-2026-11-12  commit  home  Library tiles show the name on the picture (STUDIO-LOOK-01)
-2026-11-12  commit  home  Pin ui-v0.5.615
+2026-11-13  commit  home     Pin ui-v0.5.634
+2026-11-13  commit  home     MUSIC-PORT-01: UI slices and rebuild-level specs from ace-step-ui
+2026-11-13  commit  home     WHISPER-02: state the measurement plainly
+2026-11-13  commit  home     WHISPER-02: the quick lane hears a request to whisper, so the first okay and th
+2026-11-13  commit  commons  MOTION-01 phase 2: tests, ledger, changelog and ui 0.5.634 (package.json matche
 ```
 <!--ACTIVITY:END-->
 
