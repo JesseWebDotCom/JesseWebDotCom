@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-13  commit  home     Pin ui-v0.5.634
-2026-11-13  commit  home     MUSIC-PORT-01: UI slices and rebuild-level specs from ace-step-ui
-2026-11-13  commit  home     WHISPER-02: state the measurement plainly
-2026-11-13  commit  home     WHISPER-02: the quick lane hears a request to whisper, so the first okay and th
-2026-11-13  commit  commons  MOTION-01 phase 2: tests, ledger, changelog and ui 0.5.634 (package.json matche
+2026-11-14  commit  bot   Bot 0.2.95: the firmware update check sends the unit's version and downloads witho
+2026-11-14  commit  home  Pin bot 0.2.94
+2026-11-14  commit  home  pin.sh moves the StackChan firmware set with the bot pin (it stayed on the 0.2.57 
+2026-11-14  commit  home  song_name: measured bench runs recorded, the tool stays off (5 rounds, false calls
+2026-11-14  commit  home  song-name bench: runner (MAIPAI_BENCH_PASS=song-name), scoring and 18 rows incl. d
 ```
 <!--ACTIVITY:END-->
 
