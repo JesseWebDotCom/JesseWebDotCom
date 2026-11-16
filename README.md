@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-15  commit  home  OUTBOX-02: the lander and watcher fetch GitHub at most every 30 minutes instead of
-2026-11-15  commit  home  Music player EQ: extract message catalogs
-2026-11-15  commit  home  Music player: preamp readout as one string for the i18n baseline
-2026-11-15  commit  home  MUSIC-PLAYBACK-01 SF-02: ten-band equalizer, preamp, limiter, gain ramps on pause 
-2026-11-15  commit  home  Music album and artist pages: play label on rows, add to playlist on artist rows
+2026-11-16  commit  home  Fix the eval record section number in the H3 licence flag
+2026-11-16  commit  home  H3 licence territory: the licence excludes the United States; private testing only
+2026-11-16  commit  home  Score: read the Stack's bare note list so the card shows the notes (it showed 0)
+2026-11-16  commit  home  Pin Stack 5246580
+2026-11-16  commit  home  Pin Stack 256e43a
 ```
 <!--ACTIVITY:END-->
 
