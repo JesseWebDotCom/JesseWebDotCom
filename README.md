@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-17  commit  home     Sounds: a sound that fails for memory or storage says sound, not song (found in
-2026-11-17  commit  home     Swap: a swap that only waited for its turn says memory is short and what to do,
-2026-11-17  commit  home     Users page redesign: person cards, one Add user button, edit and remove under M
-2026-11-17  commit  commons  spec 0.1.423: the model pack and the eight generic job shapes (MODELPACK-SPEC-0
-2026-11-17  commit  home     Pin ui-v0.5.690
+2026-11-17  commit  home  Pin Stack b5506d6
+2026-11-17  commit  home  Design: known systems with assigned lineups, auto-match and closest-match fallback
+2026-11-17  commit  home  Docs: swap composite lessons, known imperfections of the accepted draft with frame
+2026-11-17  commit  home  Docs: swap composite lessons, final state, collar tuck, colour lock, padding failu
+2026-11-17  commit  home  Docs: swap composite lessons, cowl-aware mask, cut-off head limit, checks
 ```
 <!--ACTIVITY:END-->
 
