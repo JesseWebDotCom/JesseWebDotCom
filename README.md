@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-17  commit  home  Pin Stack b5506d6
-2026-11-17  commit  home  Design: known systems with assigned lineups, auto-match and closest-match fallback
-2026-11-17  commit  home  Docs: swap composite lessons, known imperfections of the accepted draft with frame
-2026-11-17  commit  home  Docs: swap composite lessons, final state, collar tuck, colour lock, padding failu
-2026-11-17  commit  home  Docs: swap composite lessons, cowl-aware mask, cut-off head limit, checks
+2026-11-19  commit  home  Pin Stack f5a696b
+2026-11-19  commit  home  Locales: extract the engine update line
+2026-11-19  commit  home  Settings: an engine row says when a newer upstream release exists, from the Stack'
+2026-11-19  commit  home  Pin Stack 138942e
+2026-11-19  commit  home  Settings: the Change sheet's buttons stay off until the fresh model list is back, 
 ```
 <!--ACTIVITY:END-->
 
