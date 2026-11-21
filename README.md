@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-20  commit  home     Pin ui-v0.5.711
-2026-11-20  commit  home     Tests: Make clearer Quick enhances the clip (pinned on the action route, job id
-2026-11-20  commit  commons  spec test: the media variants package check uses a vertical shelf for row actio
-2026-11-20  commit  home     BACKLOG: VF-SWAP-01 slice 2 (kind on the request) and the likeness numbers name
-2026-11-20  commit  home     Restyle on the door: send only the person's own words (the pack's restyle recip
+2026-11-21  commit  home  Pin Stack 2c71f72
+2026-11-21  commit  home  Chat: a chat model the Stack lists as installed loads even without a Home catalog 
+2026-11-21  commit  home  Pin Stack 3a53189
+2026-11-21  commit  home  Settings: choosing a chat model for Standard now switches the running chat (downlo
+2026-11-21  commit  home  Pin spec-v0.1.474
 ```
 <!--ACTIVITY:END-->
 
