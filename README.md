@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-21  commit  home  Pin Stack 2c71f72
-2026-11-21  commit  home  Chat: a chat model the Stack lists as installed loads even without a Home catalog 
-2026-11-21  commit  home  Pin Stack 3a53189
-2026-11-21  commit  home  Settings: choosing a chat model for Standard now switches the running chat (downlo
-2026-11-21  commit  home  Pin spec-v0.1.474
+2026-11-22  commit  home     Pin ui-v0.5.736
+2026-11-22  commit  home     Code: context ring shows no number on a phone
+2026-11-22  commit  commons  ui 0.5.736: footer notice yields before the controls wrap
+2026-11-22  commit  home     Pin ui-v0.5.735
+2026-11-22  commit  home     Code page test: the level chip is in the footer
 ```
 <!--ACTIVITY:END-->
 
