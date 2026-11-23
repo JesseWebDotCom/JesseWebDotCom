@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-22  commit  home     Pin ui-v0.5.736
-2026-11-22  commit  home     Code: context ring shows no number on a phone
-2026-11-22  commit  commons  ui 0.5.736: footer notice yields before the controls wrap
-2026-11-22  commit  home     Pin ui-v0.5.735
-2026-11-22  commit  home     Code page test: the level chip is in the footer
+2026-11-23  commit  home  Pin Stack aad8371
+2026-11-23  commit  home  Generated: docs/dev/code-map.md (stack-admin-link)
+2026-11-23  commit  home  AI and models: an Open Stack admin link for owners and admins (this computer, or t
+2026-11-23  commit  home  AI and models: failing tests for the Open Stack admin link
+2026-11-23  commit  home  AI and models: a backend route says where the Stack's own admin page is (this comp
 ```
 <!--ACTIVITY:END-->
 
