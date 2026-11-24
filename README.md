@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-23  commit  home  Pin Stack aad8371
-2026-11-23  commit  home  Generated: docs/dev/code-map.md (stack-admin-link)
-2026-11-23  commit  home  AI and models: an Open Stack admin link for owners and admins (this computer, or t
-2026-11-23  commit  home  AI and models: failing tests for the Open Stack admin link
-2026-11-23  commit  home  AI and models: a backend route says where the Stack's own admin page is (this comp
+2026-11-23  commit  home  Generated: docs/api/openapi.json
+2026-11-23  commit  home  Setup: a unit with no recommended row is its lead row only (Music is not its helpe
+2026-11-23  commit  home  Generated: docs/dev/code-map.md
+2026-11-23  commit  home  Settings: coding has its label and copy in the Boost and Max lists, generated copy
+2026-11-23  commit  home  Pin spec-v0.1.483
 ```
 <!--ACTIVITY:END-->
 
