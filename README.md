@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-23  commit  home  Generated: docs/api/openapi.json
-2026-11-23  commit  home  Setup: a unit with no recommended row is its lead row only (Music is not its helpe
-2026-11-23  commit  home  Generated: docs/dev/code-map.md
-2026-11-23  commit  home  Settings: coding has its label and copy in the Boost and Max lists, generated copy
-2026-11-23  commit  home  Pin spec-v0.1.483
+2026-11-25  commit  home     Plan: the Stack manages every connection, custom MCPs included
+2026-11-25  commit  home     Pin Stack e6fbd0f
+2026-11-25  commit  home     Pin ui-v0.5.752
+2026-11-25  commit  commons  ui 0.5.752: package version catches up with the Drives work (tags 748 to 751 sh
+2026-11-25  commit  home     Plan: Home connections live in the Stack (proposal, awaiting the Stack rule dec
 ```
 <!--ACTIVITY:END-->
 
