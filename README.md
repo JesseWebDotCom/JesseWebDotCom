@@ -92,11 +92,11 @@ These days my focus is **enterprise AI**: evaluating, integrating, governing, an
 
 <!--ACTIVITY:START-->
 ```text
-2026-11-26  commit  home  Pin Stack bcf6d63
-2026-11-26  commit  home  LoRAs design note: unchecked Stack installs are untagged, no C11 exception; Home's
-2026-11-26  commit  home  LoRAs: lowering a style the download site tagged nsfw needs Home's ticket too; des
-2026-11-26  commit  home  LoRA migration (STACK-LORAS-01 slice 5): scripts/lorasToStack.ts posts Home's lora
-2026-11-26  commit  home  LoRAs: the Stack holds no ticket; Home checks its own, then lowers the tag with it
+2026-11-27  commit  home  Pin Stack 1418672
+2026-11-27  commit  home  Pin Stack f9f88c1
+2026-11-27  commit  home  Pin Stack 68d6366
+2026-11-27  commit  home  Catalogs: Stack usage strings (English and Spanish)
+2026-11-27  commit  home  Stack General: live use of the Stack's computer (memory share, what is loaded, job
 ```
 <!--ACTIVITY:END-->
 
